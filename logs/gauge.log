@@ -1,0 +1,2932 @@
+13:02:11.279 Runner connection error: Runner with pid 6738 quit unexpectedly(exit status 127).
+13:02:11.280 Error while killing runner: os: process already finished
+13:02:11.280 Killing Gauge daemon. Runner with pid 6738 quit unexpectedly(exit status 127).
+13:42:26.260 # Specification Heading
+13:42:26.260 ## Vowel counts in single word
+13:42:26.265 * Vowels in English language are "aeiou".
+
+13:42:26.269 * The word "gauge" has "3" vowels.
+
+13:42:26.272 ## Vowel counts in multiple word
+13:42:26.273 * Vowels in English language are "aeiou".
+
+13:42:26.274 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+13:42:27.586 Plugin [Html Report] with pid [7421] has exited
+13:42:27.687 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:42:27.687 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+13:42:27.687 
+Total time taken: 79ms
+14:01:52.180 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:29 Step implementation not found => 'Almost all words have vowels'
+14:01:52.195 # Specification Heading
+14:01:52.196 ## Vowel counts in single word
+14:01:52.199 * Vowels in English language are "aeiou".
+
+14:01:52.204 * The word "gauge" has "3" vowels.
+
+14:01:52.308 Plugin [Html Report] with pid [7447] has exited
+14:01:52.410 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:01:52.410 Scenarios:	1 executed	1 passed	0 failed	1 skipped
+14:01:52.410 
+Total time taken: 27ms
+14:02:20.808 [ParseError] /Users/fathimah/Work/GaugeNode/specs/example.spec:22 Scenario should have atleast one step => ''
+14:02:20.808 [ParseError] /Users/fathimah/Work/GaugeNode/specs/example.spec:29 Dynamic parameter <table:data.csv> could not be resolved => 'Almost all words have vowels <table:data.csv>'
+14:02:21.142 Plugin [Html Report] with pid [7455] has exited
+14:02:21.244 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:02:21.244 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+14:02:21.244 
+Total time taken: 15ms
+14:13:07.684 # Specification Heading
+14:13:07.685 ## Vowel counts in single word
+14:13:07.689 * Vowels in English language are "aeiou".
+
+14:13:07.693 * The word "gauge" has "3" vowels.
+
+14:13:07.695 ## Vowel counts in multiple word
+14:13:07.696 * Vowels in English language are "aeiou".
+
+14:13:07.697 * Almost all words have vowels <table:data.csv>
+14:13:07.803 Plugin [Html Report] with pid [7556] has exited
+14:13:07.905 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:13:07.905 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+14:13:07.905 
+Total time taken: 32ms
+14:15:19.098 # Specification Heading
+14:15:19.099 ## Vowel counts in single word
+14:15:19.102 * Vowels in English language are "aeiou".
+
+14:15:19.106 * The word "gauge" has "3" vowels.
+
+14:15:19.109 ## Vowel counts in multiple word
+14:15:19.110 * Vowels in English language are "aeiou".
+
+14:15:19.112 * Almost all words have vowels <table:testdata/data.csv>
+14:15:19.216 Plugin [Html Report] with pid [7568] has exited
+14:15:19.317 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:15:19.317 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+14:15:19.317 
+Total time taken: 32ms
+15:02:57.569 [ParseError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:4 Scenario should have atleast one step => ''
+15:02:57.569 [ParseError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Dynamic parameter <table:testgetblobs.csv> could not be resolved => 'Fetch blob with id <table:testgetblobs.csv>'
+15:02:57.904 Plugin [Html Report] with pid [7690] has exited
+15:02:58.006 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:02:58.006 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+15:02:58.006 
+Total time taken: 21ms
+15:04:52.552 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+15:04:52.670 Plugin [Html Report] with pid [7700] has exited
+15:04:52.772 Specifications:	0 executed	0 passed	0 failed	1 skipped
+15:04:52.772 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+15:04:52.772 
+Total time taken: 17ms
+15:04:57.868 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+15:04:57.986 Plugin [Html Report] with pid [7707] has exited
+15:04:58.087 Specifications:	0 executed	0 passed	0 failed	1 skipped
+15:04:58.087 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+15:04:58.087 
+Total time taken: 16ms
+15:08:20.083 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+15:08:20.200 Plugin [Html Report] with pid [7721] has exited
+15:08:20.301 Specifications:	0 executed	0 passed	0 failed	1 skipped
+15:08:20.301 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+15:08:20.301 
+Total time taken: 15ms
+15:08:26.669 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+15:08:26.669 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:4 Step implementation not found => 'Vowels in English language are "aeiou".'
+15:08:26.670 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:10 Step implementation not found => 'The word "gauge" has "3" vowels.'
+15:08:26.670 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:20 Step implementation not found => 'Almost all words have vowels <table:testdata/data.csv>'
+15:08:26.787 Plugin [Html Report] with pid [7728] has exited
+15:08:26.888 Specifications:	0 executed	0 passed	0 failed	2 skipped
+15:08:26.888 Scenarios:	0 executed	0 passed	0 failed	3 skipped
+15:08:26.888 
+Total time taken: 15ms
+15:08:38.084 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:4 Step implementation not found => 'Vowels in English language are "aeiou".'
+15:08:38.084 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:10 Step implementation not found => 'The word "gauge" has "3" vowels.'
+15:08:38.084 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:20 Step implementation not found => 'Almost all words have vowels <table:testdata/data.csv>'
+15:08:38.200 Plugin [Html Report] with pid [7735] has exited
+15:08:38.302 Specifications:	0 executed	0 passed	0 failed	1 skipped
+15:08:38.302 Scenarios:	0 executed	0 passed	0 failed	2 skipped
+15:08:38.302 
+Total time taken: 15ms
+15:09:40.400 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:4 Step implementation not found => 'Vowels in English language are "aeiou".'
+15:09:40.400 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:10 Step implementation not found => 'The word "gauge" has "3" vowels.'
+15:09:40.400 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:20 Step implementation not found => 'Almost all words have vowels <table:testdata/data.csv>'
+15:09:40.516 Plugin [Html Report] with pid [7744] has exited
+15:09:40.616 Specifications:	0 executed	0 passed	0 failed	1 skipped
+15:09:40.616 Scenarios:	0 executed	0 passed	0 failed	2 skipped
+15:09:40.616 
+Total time taken: 15ms
+15:10:17.698 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id'
+15:10:17.698 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:4 Step implementation not found => 'Vowels in English language are "aeiou".'
+15:10:17.698 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:10 Step implementation not found => 'The word "gauge" has "3" vowels.'
+15:10:17.698 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:20 Step implementation not found => 'Almost all words have vowels <table:testdata/data.csv>'
+15:10:17.815 Plugin [Html Report] with pid [7751] has exited
+15:10:17.916 Specifications:	0 executed	0 passed	0 failed	2 skipped
+15:10:17.916 Scenarios:	0 executed	0 passed	0 failed	3 skipped
+15:10:17.916 
+Total time taken: 16ms
+15:11:50.002 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id'
+15:11:50.002 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:4 Step implementation not found => 'Vowels in English language are "aeiou".'
+15:11:50.002 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:10 Step implementation not found => 'The word "gauge" has "3" vowels.'
+15:11:50.002 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/example.spec:20 Step implementation not found => 'Almost all words have vowels <table:testdata/data.csv>'
+15:11:50.118 Plugin [Html Report] with pid [7767] has exited
+15:11:50.219 Specifications:	0 executed	0 passed	0 failed	2 skipped
+15:11:50.219 Scenarios:	0 executed	0 passed	0 failed	3 skipped
+15:11:50.219 
+Total time taken: 15ms
+15:12:54.440 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id'
+15:12:54.455 # Specification Heading
+15:12:54.456 ## Vowel counts in single word
+15:12:54.460 * Vowels in English language are "aeiou".
+
+15:12:54.461 * The word "gauge" has "3" vowels.
+
+15:12:54.464 ## Vowel counts in multiple word
+15:12:54.465 * Vowels in English language are "aeiou".
+
+15:12:54.467 * Almost all words have vowels <table:testdata/data.csv>
+15:12:54.572 Plugin [Html Report] with pid [7777] has exited
+15:12:54.673 Specifications:	1 executed	1 passed	0 failed	1 skipped
+15:12:54.673 Scenarios:	2 executed	2 passed	0 failed	1 skipped
+15:12:54.673 
+Total time taken: 31ms
+15:13:29.635 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id'
+15:13:29.651 # Specification Heading
+15:13:29.652 ## Vowel counts in single word
+15:13:29.657 * Vowels in English language are "aeiou".
+
+15:13:29.658 * The word "gauge" has "3" vowels.
+
+15:13:29.663 ## Vowel counts in multiple word
+15:13:29.664 * Vowels in English language are "aeiou".
+
+15:13:29.665 * Almost all words have vowels <table:testdata/data.csv>
+15:13:29.771 Plugin [Html Report] with pid [7785] has exited
+15:13:29.873 Specifications:	1 executed	1 passed	0 failed	1 skipped
+15:13:29.873 Scenarios:	2 executed	2 passed	0 failed	1 skipped
+15:13:29.873 
+Total time taken: 35ms
+15:13:43.090 # Blobs
+15:13:43.091 ## Fetch blobs by id
+15:13:43.094 * Fetch blob with id
+
+15:13:43.098 # Specification Heading
+15:13:43.099 ## Vowel counts in single word
+15:13:43.100 * Vowels in English language are "aeiou".
+
+15:13:43.102 * The word "gauge" has "3" vowels.
+
+15:13:43.106 ## Vowel counts in multiple word
+15:13:43.106 * Vowels in English language are "aeiou".
+
+15:13:43.109 * Almost all words have vowels <table:testdata/data.csv>
+15:13:43.216 Plugin [Html Report] with pid [7793] has exited
+15:13:43.317 Specifications:	2 executed	2 passed	0 failed	0 skipped
+15:13:43.317 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+15:13:43.317 
+Total time taken: 42ms
+15:17:04.787 # Blobs
+15:17:04.792 ## Fetch blobs by id
+15:17:04.795 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:17:04.918 Plugin [Html Report] with pid [7804] has exited
+15:17:05.019 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:17:05.019 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:17:05.019 
+Total time taken: 43ms
+15:18:42.092 # Blobs
+15:18:42.097 ## Fetch blobs by id
+15:18:42.100 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:18:42.221 Plugin [Html Report] with pid [7816] has exited
+15:18:42.321 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:18:42.321 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:18:42.321 
+Total time taken: 42ms
+15:21:36.143 # Blobs
+15:21:36.148 ## Fetch blobs by id
+15:21:36.151 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:21:36.274 Plugin [Html Report] with pid [7840] has exited
+15:21:36.375 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:21:36.375 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:21:36.375 
+Total time taken: 44ms
+15:21:46.422 # Blobs
+15:21:46.427 ## Fetch blobs by id
+15:21:46.430 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:21:46.562 Plugin [Html Report] with pid [7848] has exited
+15:21:46.663 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:21:46.663 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:21:46.663 
+Total time taken: 54ms
+15:29:21.170 # Blobs
+15:29:21.175 ## Fetch blobs by id
+15:29:21.179 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:29:21.374 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:29:21.374 Error Message: TypeError: table.rows is not a function
+15:29:21.374 Specification: specs/blobs.spec:6
+15:29:21.374 Stacktrace: 
+TypeError: table.rows is not a function
+    at Object.<anonymous> (tests/testblob.js:15:30)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:29:21.481 Plugin [Html Report] with pid [7862] has exited
+15:29:21.582 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:29:21.582 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:29:21.582 
+Total time taken: 221ms
+15:30:50.697 # Blobs
+15:30:50.702 ## Fetch blobs by id
+15:30:50.704 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:30:50.878 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:30:50.878 Error Message: TypeError: Cannot read property 'getCell' of undefined
+15:30:50.878 Specification: specs/blobs.spec:6
+15:30:50.878 Stacktrace: 
+TypeError: Cannot read property 'getCell' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:33)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:30:50.982 Plugin [Html Report] with pid [7874] has exited
+15:30:51.083 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:30:51.083 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:30:51.083 
+Total time taken: 198ms
+15:44:54.167 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+15:44:54.291 Plugin [Html Report] with pid [7897] has exited
+15:44:54.392 Specifications:	0 executed	0 passed	0 failed	1 skipped
+15:44:54.392 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+15:44:54.392 
+Total time taken: 22ms
+15:45:19.188 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+15:45:19.309 Plugin [Html Report] with pid [7904] has exited
+15:45:19.411 Specifications:	0 executed	0 passed	0 failed	1 skipped
+15:45:19.411 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+15:45:19.411 
+Total time taken: 19ms
+15:45:44.145 # Blobs
+15:45:44.150 ## Fetch blobs by id
+15:45:44.153 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:45:44.333 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:45:44.333 Error Message: TypeError: Cannot read property 'getCell' of undefined
+15:45:44.333 Specification: specs/blobs.spec:6
+15:45:44.333 Stacktrace: 
+TypeError: Cannot read property 'getCell' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:33)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:45:44.437 Plugin [Html Report] with pid [7913] has exited
+15:45:44.538 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:45:44.538 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:45:44.538 
+Total time taken: 205ms
+15:45:51.404 # Blobs
+15:45:51.409 ## Fetch blobs by id
+15:45:51.411 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:45:51.591 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:45:51.591 Error Message: TypeError: Cannot read property '0' of undefined
+15:45:51.591 Specification: specs/blobs.spec:6
+15:45:51.591 Stacktrace: 
+TypeError: Cannot read property '0' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:42)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:45:51.695 Plugin [Html Report] with pid [7923] has exited
+15:45:51.796 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:45:51.796 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:45:51.796 
+Total time taken: 204ms
+15:46:29.343 # Blobs
+15:46:29.348 ## Fetch blobs by id
+15:46:29.351 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:46:29.528 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:46:29.528 Error Message: TypeError: Cannot read property 'cells' of undefined
+15:46:29.528 Specification: specs/blobs.spec:6
+15:46:29.528 Stacktrace: 
+TypeError: Cannot read property 'cells' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:33)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:46:29.632 Plugin [Html Report] with pid [7936] has exited
+15:46:29.733 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:46:29.733 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:46:29.733 
+Total time taken: 202ms
+15:47:59.350 # Blobs
+15:47:59.355 ## Fetch blobs by id
+15:47:59.358 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:47:59.542 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:47:59.542 Error Message: TypeError: Cannot read property '0' of undefined
+15:47:59.542 Specification: specs/blobs.spec:6
+15:47:59.542 Stacktrace: 
+TypeError: Cannot read property '0' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:40)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:47:59.646 Plugin [Html Report] with pid [7952] has exited
+15:47:59.747 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:47:59.747 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:47:59.747 
+Total time taken: 209ms
+15:48:07.925 # Blobs
+15:48:07.930 ## Fetch blobs by id
+15:48:07.932 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:48:08.040 Plugin [Html Report] with pid [7965] has exited
+15:48:08.141 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:48:08.142 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:48:08.142 
+Total time taken: 29ms
+15:48:15.279 # Blobs
+15:48:15.284 ## Fetch blobs by id
+15:48:15.287 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:48:15.467 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:48:15.467 Error Message: TypeError: Cannot read property '0' of undefined
+15:48:15.467 Specification: specs/blobs.spec:6
+15:48:15.467 Stacktrace: 
+TypeError: Cannot read property '0' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:33)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:48:15.571 Plugin [Html Report] with pid [7973] has exited
+15:48:15.672 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:48:15.672 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:48:15.672 
+Total time taken: 204ms
+15:48:21.528 # Blobs
+15:48:21.533 ## Fetch blobs by id
+15:48:21.536 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:48:21.644 Plugin [Html Report] with pid [7983] has exited
+15:48:21.745 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:48:21.745 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:48:21.745 
+Total time taken: 29ms
+15:48:38.373 # Blobs
+15:48:38.379 ## Fetch blobs by id
+15:48:38.381 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:48:38.555 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:48:38.555 Error Message: TypeError: Cannot read property 'UserId' of undefined
+15:48:38.555 Specification: specs/blobs.spec:6
+15:48:38.555 Stacktrace: 
+TypeError: Cannot read property 'UserId' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:41)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:48:38.659 Plugin [Html Report] with pid [7990] has exited
+15:48:38.761 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:48:38.761 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:48:38.761 
+Total time taken: 199ms
+15:48:52.858 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+15:48:52.979 Plugin [Html Report] with pid [8004] has exited
+15:48:53.080 Specifications:	0 executed	0 passed	0 failed	1 skipped
+15:48:53.080 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+15:48:53.080 
+Total time taken: 19ms
+15:49:09.791 # Blobs
+15:49:09.796 ## Fetch blobs by id
+15:49:09.799 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:49:09.978 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:49:09.978 Error Message: TypeError: table.rows.header is not a function
+15:49:09.978 Specification: specs/blobs.spec:6
+15:49:09.978 Stacktrace: 
+TypeError: table.rows.header is not a function
+    at Object.<anonymous> (tests/testblob.js:15:35)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:49:10.082 Plugin [Html Report] with pid [8011] has exited
+15:49:10.183 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:49:10.183 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:49:10.183 
+Total time taken: 204ms
+15:49:18.106 # Blobs
+15:49:18.111 ## Fetch blobs by id
+15:49:18.113 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:49:18.292 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:49:18.292 Error Message: TypeError: table.header is not a function
+15:49:18.292 Specification: specs/blobs.spec:6
+15:49:18.292 Stacktrace: 
+TypeError: table.header is not a function
+    at Object.<anonymous> (tests/testblob.js:15:30)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:49:18.395 Plugin [Html Report] with pid [8020] has exited
+15:49:18.495 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:49:18.496 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:49:18.496 
+Total time taken: 203ms
+15:49:22.787 # Blobs
+15:49:22.792 ## Fetch blobs by id
+15:49:22.795 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:49:22.971 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:49:22.971 Error Message: TypeError: table.headers is not a function
+15:49:22.971 Specification: specs/blobs.spec:6
+15:49:22.971 Stacktrace: 
+TypeError: table.headers is not a function
+    at Object.<anonymous> (tests/testblob.js:15:30)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:49:23.075 Plugin [Html Report] with pid [8033] has exited
+15:49:23.176 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:49:23.176 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:49:23.176 
+Total time taken: 201ms
+15:49:33.682 # Blobs
+15:49:33.687 ## Fetch blobs by id
+15:49:33.690 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:49:33.866 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:49:33.866 Error Message: TypeError: table is not a function
+15:49:33.866 Specification: specs/blobs.spec:6
+15:49:33.866 Stacktrace: 
+TypeError: table is not a function
+    at Object.<anonymous> (tests/testblob.js:15:24)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:49:33.970 Plugin [Html Report] with pid [8046] has exited
+15:49:34.070 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:49:34.070 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:49:34.070 
+Total time taken: 200ms
+15:49:42.861 # Blobs
+15:49:42.867 ## Fetch blobs by id
+15:49:42.869 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:49:43.043 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:49:43.043 Error Message: TypeError: table.row is not a function
+15:49:43.043 Specification: specs/blobs.spec:6
+15:49:43.043 Stacktrace: 
+TypeError: table.row is not a function
+    at Object.<anonymous> (tests/testblob.js:15:30)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:49:43.147 Plugin [Html Report] with pid [8059] has exited
+15:49:43.248 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:49:43.249 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:49:43.249 
+Total time taken: 199ms
+15:49:48.584 # Blobs
+15:49:48.589 ## Fetch blobs by id
+15:49:48.592 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:49:48.764 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:49:48.764 Error Message: TypeError: table.rows is not a function
+15:49:48.764 Specification: specs/blobs.spec:6
+15:49:48.764 Stacktrace: 
+TypeError: table.rows is not a function
+    at Object.<anonymous> (tests/testblob.js:15:30)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:49:48.868 Plugin [Html Report] with pid [8072] has exited
+15:49:48.969 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:49:48.969 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:49:48.969 
+Total time taken: 198ms
+15:52:02.522 # Blobs
+15:52:02.527 ## Fetch blobs by id
+15:52:02.530 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:52:02.637 Plugin [Html Report] with pid [8085] has exited
+15:52:02.739 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:52:02.739 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:52:02.739 
+Total time taken: 29ms
+15:52:24.273 # Blobs
+15:52:24.278 ## Fetch blobs by id
+15:52:24.280 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:52:24.387 Plugin [Html Report] with pid [8092] has exited
+15:52:24.488 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:52:24.488 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:52:24.488 
+Total time taken: 29ms
+15:52:38.394 # Blobs
+15:52:38.399 ## Fetch blobs by id
+15:52:38.402 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:52:38.507 Plugin [Html Report] with pid [8102] has exited
+15:52:38.608 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:52:38.608 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:52:38.608 
+Total time taken: 28ms
+15:52:52.786 # Blobs
+15:52:52.791 ## Fetch blobs by id
+15:52:52.793 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:52:52.974 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:52:52.974 Error Message: TypeError: Cannot read property '1' of undefined
+15:52:52.974 Specification: specs/blobs.spec:6
+15:52:52.974 Stacktrace: 
+TypeError: Cannot read property '1' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:45)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:52:53.078 Plugin [Html Report] with pid [8110] has exited
+15:52:53.180 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:52:53.180 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:52:53.180 
+Total time taken: 205ms
+15:53:01.291 # Blobs
+15:53:01.297 ## Fetch blobs by id
+15:53:01.300 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:53:01.474 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:53:01.474 Error Message: TypeError: Cannot read property '0' of undefined
+15:53:01.474 Specification: specs/blobs.spec:6
+15:53:01.474 Stacktrace: 
+TypeError: Cannot read property '0' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:45)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:53:01.578 Plugin [Html Report] with pid [8120] has exited
+15:53:01.679 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:53:01.679 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:53:01.679 
+Total time taken: 200ms
+15:53:12.202 # Blobs
+15:53:12.207 ## Fetch blobs by id
+15:53:12.210 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:53:12.387 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:53:12.387 Error Message: TypeError: Cannot read property '0' of undefined
+15:53:12.387 Specification: specs/blobs.spec:6
+15:53:12.387 Stacktrace: 
+TypeError: Cannot read property '0' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:46)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:53:12.491 Plugin [Html Report] with pid [8131] has exited
+15:53:12.592 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:53:12.592 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:53:12.592 
+Total time taken: 201ms
+15:53:18.978 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+15:53:19.098 Plugin [Html Report] with pid [8141] has exited
+15:53:19.199 Specifications:	0 executed	0 passed	0 failed	1 skipped
+15:53:19.199 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+15:53:19.199 
+Total time taken: 19ms
+15:53:32.572 # Blobs
+15:53:32.577 ## Fetch blobs by id
+15:53:32.580 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:53:32.686 Plugin [Html Report] with pid [8150] has exited
+15:53:32.787 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:53:32.787 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:53:32.787 
+Total time taken: 30ms
+15:53:39.341 # Blobs
+15:53:39.346 ## Fetch blobs by id
+15:53:39.348 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:53:39.456 Plugin [Html Report] with pid [8158] has exited
+15:53:39.557 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:53:39.557 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:53:39.557 
+Total time taken: 29ms
+15:53:50.503 # Blobs
+15:53:50.508 ## Fetch blobs by id
+15:53:50.511 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:53:50.619 Plugin [Html Report] with pid [8165] has exited
+15:53:50.721 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:53:50.721 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:53:50.721 
+Total time taken: 31ms
+15:53:57.599 # Blobs
+15:53:57.604 ## Fetch blobs by id
+15:53:57.606 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:53:57.714 Plugin [Html Report] with pid [8174] has exited
+15:53:57.815 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:53:57.815 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:53:57.815 
+Total time taken: 29ms
+15:54:12.294 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+15:54:12.414 Plugin [Html Report] with pid [8182] has exited
+15:54:12.516 Specifications:	0 executed	0 passed	0 failed	1 skipped
+15:54:12.516 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+15:54:12.516 
+Total time taken: 19ms
+15:54:34.852 # Blobs
+15:54:34.857 ## Fetch blobs by id
+15:54:34.860 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:54:35.035 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+15:54:35.035 Error Message: TypeError: table.headers is not a function
+15:54:35.035 Specification: specs/blobs.spec:6
+15:54:35.035 Stacktrace: 
+TypeError: table.headers is not a function
+    at Object.<anonymous> (tests/testblob.js:15:30)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+15:54:35.138 Plugin [Html Report] with pid [8191] has exited
+15:54:35.240 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:54:35.240 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:54:35.240 
+Total time taken: 200ms
+15:54:55.059 # Blobs
+15:54:55.064 ## Fetch blobs by id
+15:54:55.066 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:54:55.173 Plugin [Html Report] with pid [8200] has exited
+15:54:55.274 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:54:55.274 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:54:55.274 
+Total time taken: 27ms
+15:55:06.035 # Blobs
+15:55:06.040 ## Fetch blobs by id
+15:55:06.043 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:55:06.150 Plugin [Html Report] with pid [8209] has exited
+15:55:06.251 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:55:06.251 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:55:06.251 
+Total time taken: 29ms
+15:55:13.068 # Blobs
+15:55:13.073 ## Fetch blobs by id
+15:55:13.075 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+15:55:13.180 Plugin [Html Report] with pid [8216] has exited
+15:55:13.282 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:55:13.282 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:55:13.282 
+Total time taken: 27ms
+16:09:52.253 # Blobs
+16:09:52.258 ## Fetch blobs by id
+16:09:52.261 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:09:52.370 Plugin [Html Report] with pid [8234] has exited
+16:09:52.471 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:09:52.471 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:09:52.471 
+Total time taken: 31ms
+16:10:00.494 # Blobs
+16:10:00.499 ## Fetch blobs by id
+16:10:00.502 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:10:00.608 Plugin [Html Report] with pid [8242] has exited
+16:10:00.710 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:10:00.710 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:10:00.710 
+Total time taken: 28ms
+16:10:26.197 # Blobs
+16:10:26.202 ## Fetch blobs by id
+16:10:26.205 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:10:26.378 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+16:10:26.379 Error Message: TypeError: table.headers.cells is not a function
+16:10:26.379 Specification: specs/blobs.spec:6
+16:10:26.379 Stacktrace: 
+TypeError: table.headers.cells is not a function
+    at Object.<anonymous> (tests/testblob.js:15:38)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+16:10:26.483 Plugin [Html Report] with pid [8249] has exited
+16:10:26.584 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:10:26.584 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:10:26.584 
+Total time taken: 199ms
+16:10:36.889 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+16:10:37.010 Plugin [Html Report] with pid [8262] has exited
+16:10:37.110 Specifications:	0 executed	0 passed	0 failed	1 skipped
+16:10:37.110 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+16:10:37.110 
+Total time taken: 20ms
+16:10:42.329 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+16:10:42.451 Plugin [Html Report] with pid [8270] has exited
+16:10:42.552 Specifications:	0 executed	0 passed	0 failed	1 skipped
+16:10:42.552 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+16:10:42.552 
+Total time taken: 20ms
+16:10:44.973 # Blobs
+16:10:44.978 ## Fetch blobs by id
+16:10:44.980 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:10:45.086 Plugin [Html Report] with pid [8278] has exited
+16:10:45.186 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:10:45.186 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:10:45.186 
+Total time taken: 28ms
+16:11:35.336 # Blobs
+16:11:35.341 ## Fetch blobs by id
+16:11:35.343 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:11:35.449 Plugin [Html Report] with pid [8286] has exited
+16:11:35.550 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:11:35.550 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:11:35.550 
+Total time taken: 27ms
+16:11:43.471 # Blobs
+16:11:43.476 ## Fetch blobs by id
+16:11:43.479 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:11:43.585 Plugin [Html Report] with pid [8294] has exited
+16:11:43.687 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:11:43.687 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:11:43.687 
+Total time taken: 28ms
+16:12:16.647 # Blobs
+16:12:16.652 ## Fetch blobs by id
+16:12:16.654 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:12:16.761 Plugin [Html Report] with pid [8302] has exited
+16:12:16.863 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:12:16.863 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:12:16.863 
+Total time taken: 29ms
+16:12:42.331 # Blobs
+16:12:42.336 ## Fetch blobs by id
+16:12:42.339 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:12:42.512 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+16:12:42.512 Error Message: TypeError: Cannot read property 'cells' of undefined
+16:12:42.512 Specification: specs/blobs.spec:6
+16:12:42.512 Stacktrace: 
+TypeError: Cannot read property 'cells' of undefined
+    at Object.<anonymous> (tests/testblob.js:15:36)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+16:12:42.615 Plugin [Html Report] with pid [8309] has exited
+16:12:42.716 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:12:42.716 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:12:42.716 
+Total time taken: 198ms
+16:12:48.302 # Blobs
+16:12:48.307 ## Fetch blobs by id
+16:12:48.309 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:12:48.417 Plugin [Html Report] with pid [8319] has exited
+16:12:48.518 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:12:48.518 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:12:48.518 
+Total time taken: 28ms
+16:13:03.016 # Blobs
+16:13:03.021 ## Fetch blobs by id
+16:13:03.024 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:13:03.129 Plugin [Html Report] with pid [8327] has exited
+16:13:03.230 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:13:03.230 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:13:03.230 
+Total time taken: 28ms
+16:16:32.008 # Blobs
+16:16:32.013 ## Fetch blobs by id
+16:16:32.016 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:16:32.190 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+16:16:32.190 Error Message: ReferenceError: rows is not defined
+16:16:32.190 Specification: specs/blobs.spec:6
+16:16:32.190 Stacktrace: 
+ReferenceError: rows is not defined
+    at tests/testblob.js:18:27
+    at Array.forEach (native)
+    at Object.<anonymous> (tests/testblob.js:16:13)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+16:16:32.294 Plugin [Html Report] with pid [8336] has exited
+16:16:32.394 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:16:32.394 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:16:32.394 
+Total time taken: 199ms
+16:16:59.093 # Blobs
+16:16:59.098 ## Fetch blobs by id
+16:16:59.101 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:16:59.230 Plugin [Html Report] with pid [8350] has exited
+16:16:59.532 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:16:59.532 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:16:59.532 
+Total time taken: 51ms
+16:34:22.634 # Blobs
+16:34:22.639 ## Fetch blobs by id
+16:34:22.641 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:34:23.133 Plugin [Html Report] with pid [8395] has exited
+16:34:23.233 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:34:23.233 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:34:23.233 
+Total time taken: 414ms
+17:29:02.258 # Blobs
+17:29:02.259 ## Fetch blobs by id
+17:29:02.261 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:29:02.669 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:29:02.670 Error Message: Connection closed [127.0.0.1:55636] cause: EOF
+17:29:02.670 Specification: specs/blobs.spec:6
+17:29:02.670 Stacktrace: 
+17:29:02.670 Error Message: write tcp 127.0.0.1:55634->127.0.0.1:55636: use of closed network connection
+17:29:02.670 Stacktrace: 
+17:29:02.670 Error Message: write tcp 127.0.0.1:55634->127.0.0.1:55636: use of closed network connection
+17:29:02.670 Stacktrace: 
+17:29:02.670 Error Message: write tcp 127.0.0.1:55634->127.0.0.1:55636: use of closed network connection
+17:29:02.670 Stacktrace: 
+17:29:02.670 Error Message: write tcp 127.0.0.1:55634->127.0.0.1:55636: use of closed network connection
+17:29:02.670 Stacktrace: 
+17:29:02.771 Plugin [Html Report] with pid [8463] has exited
+17:29:02.771 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:29:02.771 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:29:02.771 
+Total time taken: 427ms
+17:30:30.863 # Blobs
+17:30:30.865 ## Fetch blobs by id
+17:30:30.867 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:30:31.123 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:30:31.123 Error Message: Connection closed [127.0.0.1:55651] cause: EOF
+17:30:31.123 Specification: specs/blobs.spec:6
+17:30:31.123 Stacktrace: 
+17:30:31.123 Error Message: write tcp 127.0.0.1:55649->127.0.0.1:55651: use of closed network connection
+17:30:31.123 Stacktrace: 
+17:30:31.123 Error Message: write tcp 127.0.0.1:55649->127.0.0.1:55651: use of closed network connection
+17:30:31.123 Stacktrace: 
+17:30:31.123 Error Message: write tcp 127.0.0.1:55649->127.0.0.1:55651: use of closed network connection
+17:30:31.123 Stacktrace: 
+17:30:31.123 Error Message: write tcp 127.0.0.1:55649->127.0.0.1:55651: use of closed network connection
+17:30:31.123 Stacktrace: 
+17:30:31.224 Plugin [Html Report] with pid [8488] has exited
+17:30:31.224 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:30:31.224 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:30:31.224 
+Total time taken: 275ms
+17:32:45.377 # Blobs
+17:32:45.378 ## Fetch blobs by id
+17:32:45.381 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:32:45.561 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:32:45.561 Error Message: TypeError: Cannot read property 'cells' of undefined
+17:32:45.561 Specification: specs/blobs.spec:6
+17:32:45.561 Stacktrace: 
+TypeError: Cannot read property 'cells' of undefined
+    at Object.<anonymous> (tests/testblob.js:19:34)
+    at Test.runFnAsync (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:65:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:75:16)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+17:32:45.664 Plugin [Html Report] with pid [8504] has exited
+17:32:45.765 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:32:45.766 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:32:45.766 
+Total time taken: 201ms
+17:32:52.183 # Blobs
+17:32:52.184 ## Fetch blobs by id
+17:32:52.186 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:32:52.931 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:32:52.931 Error Message: Connection closed [127.0.0.1:55677] cause: EOF
+17:32:52.931 Specification: specs/blobs.spec:6
+17:32:52.931 Stacktrace: 
+17:32:52.931 Error Message: write tcp 127.0.0.1:55675->127.0.0.1:55677: use of closed network connection
+17:32:52.931 Stacktrace: 
+17:32:52.931 Error Message: write tcp 127.0.0.1:55675->127.0.0.1:55677: use of closed network connection
+17:32:52.931 Stacktrace: 
+17:32:52.931 Error Message: write tcp 127.0.0.1:55675->127.0.0.1:55677: use of closed network connection
+17:32:52.931 Stacktrace: 
+17:32:52.931 Error Message: write tcp 127.0.0.1:55675->127.0.0.1:55677: use of closed network connection
+17:32:52.931 Stacktrace: 
+17:32:53.032 Plugin [Html Report] with pid [8513] has exited
+17:32:53.032 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:32:53.032 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:32:53.032 
+Total time taken: 763ms
+17:38:06.451 # Blobs
+17:38:06.452 ## Fetch blobs by id
+17:38:06.455 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:38:06.761 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:38:06.761 Error Message: Connection closed [127.0.0.1:55738] cause: EOF
+17:38:06.761 Specification: specs/blobs.spec:6
+17:38:06.761 Stacktrace: 
+17:38:06.761 Error Message: write tcp 127.0.0.1:55736->127.0.0.1:55738: use of closed network connection
+17:38:06.761 Stacktrace: 
+17:38:06.761 Error Message: write tcp 127.0.0.1:55736->127.0.0.1:55738: use of closed network connection
+17:38:06.761 Stacktrace: 
+17:38:06.761 Error Message: write tcp 127.0.0.1:55736->127.0.0.1:55738: use of closed network connection
+17:38:06.761 Stacktrace: 
+17:38:06.761 Error Message: write tcp 127.0.0.1:55736->127.0.0.1:55738: use of closed network connection
+17:38:06.761 Stacktrace: 
+17:38:06.862 Plugin [Html Report] with pid [8535] has exited
+17:38:06.862 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:38:06.862 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:38:06.862 
+Total time taken: 326ms
+17:38:25.704 # Blobs
+17:38:25.705 ## Fetch blobs by id
+17:38:25.708 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:38:27.259 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:38:27.259 Error Message: Connection closed [127.0.0.1:55749] cause: EOF
+17:38:27.259 Specification: specs/blobs.spec:6
+17:38:27.259 Stacktrace: 
+17:38:27.259 Error Message: write tcp 127.0.0.1:55747->127.0.0.1:55749: use of closed network connection
+17:38:27.259 Stacktrace: 
+17:38:27.259 Error Message: write tcp 127.0.0.1:55747->127.0.0.1:55749: use of closed network connection
+17:38:27.259 Stacktrace: 
+17:38:27.259 Error Message: write tcp 127.0.0.1:55747->127.0.0.1:55749: use of closed network connection
+17:38:27.259 Stacktrace: 
+17:38:27.259 Error Message: write tcp 127.0.0.1:55747->127.0.0.1:55749: use of closed network connection
+17:38:27.259 Stacktrace: 
+17:38:27.360 Plugin [Html Report] with pid [8546] has exited
+17:38:27.360 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:38:27.360 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:38:27.360 
+Total time taken: 1.575s
+17:39:57.788 # Blobs
+17:39:57.789 ## Fetch blobs by id
+17:39:57.792 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:39:58.286 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:39:58.286 Error Message: Connection closed [127.0.0.1:55787] cause: EOF
+17:39:58.286 Specification: specs/blobs.spec:6
+17:39:58.286 Stacktrace: 
+17:39:58.286 Error Message: write tcp 127.0.0.1:55786->127.0.0.1:55787: use of closed network connection
+17:39:58.286 Stacktrace: 
+17:39:58.286 Error Message: write tcp 127.0.0.1:55786->127.0.0.1:55787: use of closed network connection
+17:39:58.286 Stacktrace: 
+17:39:58.286 Error Message: write tcp 127.0.0.1:55786->127.0.0.1:55787: use of closed network connection
+17:39:58.286 Stacktrace: 
+17:39:58.286 Error Message: write tcp 127.0.0.1:55786->127.0.0.1:55787: use of closed network connection
+17:39:58.286 Stacktrace: 
+17:39:58.387 Plugin [Html Report] with pid [8557] has exited
+17:39:58.387 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:39:58.387 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:39:58.387 
+Total time taken: 514ms
+17:49:12.003 # Blobs
+17:49:12.004 ## Fetch blobs by id
+17:49:12.007 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:49:12.463 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:49:12.463 Error Message: Connection closed [127.0.0.1:55916] cause: EOF
+17:49:12.463 Specification: specs/blobs.spec:6
+17:49:12.463 Stacktrace: 
+17:49:12.463 Error Message: write tcp 127.0.0.1:55914->127.0.0.1:55916: use of closed network connection
+17:49:12.463 Stacktrace: 
+17:49:12.463 Error Message: write tcp 127.0.0.1:55914->127.0.0.1:55916: use of closed network connection
+17:49:12.463 Stacktrace: 
+17:49:12.463 Error Message: write tcp 127.0.0.1:55914->127.0.0.1:55916: use of closed network connection
+17:49:12.463 Stacktrace: 
+17:49:12.463 Error Message: write tcp 127.0.0.1:55914->127.0.0.1:55916: use of closed network connection
+17:49:12.463 Stacktrace: 
+17:49:12.563 Plugin [Html Report] with pid [8577] has exited
+17:49:12.564 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:49:12.564 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:49:12.564 
+Total time taken: 476ms
+17:49:47.493 # Blobs
+17:49:47.494 ## Fetch blobs by id
+17:49:47.496 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:49:47.762 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:49:47.762 Error Message: Connection closed [127.0.0.1:55928] cause: EOF
+17:49:47.762 Specification: specs/blobs.spec:6
+17:49:47.762 Stacktrace: 
+17:49:47.762 Error Message: write tcp 127.0.0.1:55926->127.0.0.1:55928: use of closed network connection
+17:49:47.762 Stacktrace: 
+17:49:47.762 Error Message: write tcp 127.0.0.1:55926->127.0.0.1:55928: use of closed network connection
+17:49:47.762 Stacktrace: 
+17:49:47.762 Error Message: write tcp 127.0.0.1:55926->127.0.0.1:55928: use of closed network connection
+17:49:47.762 Stacktrace: 
+17:49:47.762 Error Message: write tcp 127.0.0.1:55926->127.0.0.1:55928: use of closed network connection
+17:49:47.762 Stacktrace: 
+17:49:47.864 Plugin [Html Report] with pid [8588] has exited
+17:49:47.864 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:49:47.864 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:49:47.864 
+Total time taken: 285ms
+17:50:25.629 # Blobs
+17:50:25.631 ## Fetch blobs by id
+17:50:25.633 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:50:25.917 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:50:25.917 Error Message: Connection closed [127.0.0.1:55939] cause: EOF
+17:50:25.917 Specification: specs/blobs.spec:6
+17:50:25.917 Stacktrace: 
+17:50:25.917 Error Message: write tcp 127.0.0.1:55937->127.0.0.1:55939: use of closed network connection
+17:50:25.917 Stacktrace: 
+17:50:25.917 Error Message: write tcp 127.0.0.1:55937->127.0.0.1:55939: use of closed network connection
+17:50:25.917 Stacktrace: 
+17:50:25.917 Error Message: write tcp 127.0.0.1:55937->127.0.0.1:55939: use of closed network connection
+17:50:25.917 Stacktrace: 
+17:50:25.917 Error Message: write tcp 127.0.0.1:55937->127.0.0.1:55939: use of closed network connection
+17:50:25.917 Stacktrace: 
+17:50:26.018 Plugin [Html Report] with pid [8599] has exited
+17:50:26.018 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:50:26.018 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:50:26.018 
+Total time taken: 303ms
+17:58:46.735 # Blobs
+17:58:46.736 ## Fetch blobs by id
+17:58:46.739 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+17:58:47.032 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+17:58:47.032 Error Message: Connection closed [127.0.0.1:55967] cause: EOF
+17:58:47.032 Specification: specs/blobs.spec:6
+17:58:47.032 Stacktrace: 
+17:58:47.032 Error Message: write tcp 127.0.0.1:55965->127.0.0.1:55967: use of closed network connection
+17:58:47.032 Stacktrace: 
+17:58:47.032 Error Message: write tcp 127.0.0.1:55965->127.0.0.1:55967: use of closed network connection
+17:58:47.032 Stacktrace: 
+17:58:47.032 Error Message: write tcp 127.0.0.1:55965->127.0.0.1:55967: use of closed network connection
+17:58:47.032 Stacktrace: 
+17:58:47.033 Error Message: write tcp 127.0.0.1:55965->127.0.0.1:55967: use of closed network connection
+17:58:47.033 Stacktrace: 
+17:58:47.134 Plugin [Html Report] with pid [8618] has exited
+17:58:47.134 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:58:47.134 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:58:47.134 
+Total time taken: 313ms
+18:00:49.698 # Blobs
+18:00:49.700 ## Fetch blobs by id
+18:00:49.702 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:00:50.100 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:00:50.100 Error Message: Connection closed [127.0.0.1:55979] cause: EOF
+18:00:50.100 Specification: specs/blobs.spec:6
+18:00:50.101 Stacktrace: 
+18:00:50.101 Error Message: write tcp 127.0.0.1:55977->127.0.0.1:55979: use of closed network connection
+18:00:50.101 Stacktrace: 
+18:00:50.101 Error Message: write tcp 127.0.0.1:55977->127.0.0.1:55979: use of closed network connection
+18:00:50.101 Stacktrace: 
+18:00:50.101 Error Message: write tcp 127.0.0.1:55977->127.0.0.1:55979: use of closed network connection
+18:00:50.101 Stacktrace: 
+18:00:50.101 Error Message: write tcp 127.0.0.1:55977->127.0.0.1:55979: use of closed network connection
+18:00:50.101 Stacktrace: 
+18:00:50.202 Plugin [Html Report] with pid [8627] has exited
+18:00:50.202 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:00:50.202 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:00:50.202 
+Total time taken: 417ms
+18:01:23.570 # Blobs
+18:01:23.572 ## Fetch blobs by id
+18:01:23.575 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:01:23.820 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:01:23.820 Error Message: Connection closed [127.0.0.1:55990] cause: EOF
+18:01:23.820 Specification: specs/blobs.spec:6
+18:01:23.820 Stacktrace: 
+18:01:23.820 Error Message: write tcp 127.0.0.1:55988->127.0.0.1:55990: use of closed network connection
+18:01:23.820 Stacktrace: 
+18:01:23.820 Error Message: write tcp 127.0.0.1:55988->127.0.0.1:55990: use of closed network connection
+18:01:23.820 Stacktrace: 
+18:01:23.821 Error Message: write tcp 127.0.0.1:55988->127.0.0.1:55990: use of closed network connection
+18:01:23.821 Stacktrace: 
+18:01:23.821 Error Message: write tcp 127.0.0.1:55988->127.0.0.1:55990: use of closed network connection
+18:01:23.821 Stacktrace: 
+18:01:23.922 Plugin [Html Report] with pid [8638] has exited
+18:01:23.922 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:01:23.922 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:01:23.922 
+Total time taken: 265ms
+18:01:45.647 # Blobs
+18:01:45.648 ## Fetch blobs by id
+18:01:45.651 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:01:45.904 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:01:45.904 Error Message: Connection closed [127.0.0.1:56001] cause: EOF
+18:01:45.904 Specification: specs/blobs.spec:6
+18:01:45.904 Stacktrace: 
+18:01:45.904 Error Message: write tcp 127.0.0.1:55999->127.0.0.1:56001: use of closed network connection
+18:01:45.904 Stacktrace: 
+18:01:45.904 Error Message: write tcp 127.0.0.1:55999->127.0.0.1:56001: use of closed network connection
+18:01:45.904 Stacktrace: 
+18:01:45.904 Error Message: write tcp 127.0.0.1:55999->127.0.0.1:56001: use of closed network connection
+18:01:45.904 Stacktrace: 
+18:01:45.904 Error Message: write tcp 127.0.0.1:55999->127.0.0.1:56001: use of closed network connection
+18:01:45.904 Stacktrace: 
+18:01:46.006 Plugin [Html Report] with pid [8651] has exited
+18:01:46.006 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:01:46.006 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:01:46.006 
+Total time taken: 272ms
+18:05:59.420 # Blobs
+18:05:59.421 ## Fetch blobs by id
+18:05:59.424 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:05:59.696 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:05:59.696 Error Message: Connection closed [127.0.0.1:56032] cause: EOF
+18:05:59.696 Specification: specs/blobs.spec:6
+18:05:59.696 Stacktrace: 
+18:05:59.696 Error Message: write tcp 127.0.0.1:56030->127.0.0.1:56032: use of closed network connection
+18:05:59.696 Stacktrace: 
+18:05:59.696 Error Message: write tcp 127.0.0.1:56030->127.0.0.1:56032: use of closed network connection
+18:05:59.696 Stacktrace: 
+18:05:59.696 Error Message: write tcp 127.0.0.1:56030->127.0.0.1:56032: use of closed network connection
+18:05:59.696 Stacktrace: 
+18:05:59.696 Error Message: write tcp 127.0.0.1:56030->127.0.0.1:56032: use of closed network connection
+18:05:59.696 Stacktrace: 
+18:05:59.797 Plugin [Html Report] with pid [8668] has exited
+18:05:59.797 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:05:59.797 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:05:59.797 
+Total time taken: 292ms
+18:10:41.056 # Blobs
+18:10:41.057 ## Fetch blobs by id
+18:10:41.059 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:10:41.454 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:10:41.454 Error Message: Connection closed [127.0.0.1:56089] cause: EOF
+18:10:41.454 Specification: specs/blobs.spec:6
+18:10:41.454 Stacktrace: 
+18:10:41.454 Error Message: write tcp 127.0.0.1:56087->127.0.0.1:56089: use of closed network connection
+18:10:41.454 Stacktrace: 
+18:10:41.454 Error Message: write tcp 127.0.0.1:56087->127.0.0.1:56089: use of closed network connection
+18:10:41.454 Stacktrace: 
+18:10:41.454 Error Message: write tcp 127.0.0.1:56087->127.0.0.1:56089: use of closed network connection
+18:10:41.454 Stacktrace: 
+18:10:41.454 Error Message: write tcp 127.0.0.1:56087->127.0.0.1:56089: use of closed network connection
+18:10:41.454 Stacktrace: 
+18:10:41.555 Plugin [Html Report] with pid [8685] has exited
+18:10:41.555 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:10:41.555 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:10:41.555 
+Total time taken: 414ms
+18:51:12.589 # Blobs
+18:51:12.590 ## Fetch blobs by id
+18:51:12.593 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:51:12.989 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:51:12.989 Error Message: Connection closed [127.0.0.1:56266] cause: EOF
+18:51:12.989 Specification: specs/blobs.spec:6
+18:51:12.989 Stacktrace: 
+18:51:12.989 Error Message: write tcp 127.0.0.1:56264->127.0.0.1:56266: use of closed network connection
+18:51:12.989 Stacktrace: 
+18:51:12.989 Error Message: write tcp 127.0.0.1:56264->127.0.0.1:56266: use of closed network connection
+18:51:12.989 Stacktrace: 
+18:51:12.989 Error Message: write tcp 127.0.0.1:56264->127.0.0.1:56266: use of closed network connection
+18:51:12.989 Stacktrace: 
+18:51:12.989 Error Message: write tcp 127.0.0.1:56264->127.0.0.1:56266: use of closed network connection
+18:51:12.989 Stacktrace: 
+18:51:13.090 Plugin [Html Report] with pid [8732] has exited
+18:51:13.090 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:51:13.091 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:51:13.091 
+Total time taken: 415ms
+18:53:13.951 # Blobs
+18:53:13.953 ## Fetch blobs by id
+18:53:13.955 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:53:14.194 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:53:14.194 Error Message: Connection closed [127.0.0.1:56278] cause: EOF
+18:53:14.194 Specification: specs/blobs.spec:6
+18:53:14.194 Stacktrace: 
+18:53:14.194 Error Message: write tcp 127.0.0.1:56276->127.0.0.1:56278: use of closed network connection
+18:53:14.194 Stacktrace: 
+18:53:14.194 Error Message: write tcp 127.0.0.1:56276->127.0.0.1:56278: use of closed network connection
+18:53:14.194 Stacktrace: 
+18:53:14.194 Error Message: write tcp 127.0.0.1:56276->127.0.0.1:56278: use of closed network connection
+18:53:14.194 Stacktrace: 
+18:53:14.195 Error Message: write tcp 127.0.0.1:56276->127.0.0.1:56278: use of closed network connection
+18:53:14.195 Stacktrace: 
+18:53:14.295 Plugin [Html Report] with pid [8744] has exited
+18:53:14.295 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:53:14.295 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:53:14.295 
+Total time taken: 258ms
+18:53:41.545 # Blobs
+18:53:41.546 ## Fetch blobs by id
+18:53:41.549 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:53:41.828 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:53:41.828 Error Message: Connection closed [127.0.0.1:56289] cause: EOF
+18:53:41.828 Specification: specs/blobs.spec:6
+18:53:41.828 Stacktrace: 
+18:53:41.828 Error Message: write tcp 127.0.0.1:56287->127.0.0.1:56289: use of closed network connection
+18:53:41.828 Stacktrace: 
+18:53:41.828 Error Message: write tcp 127.0.0.1:56287->127.0.0.1:56289: use of closed network connection
+18:53:41.828 Stacktrace: 
+18:53:41.828 Error Message: write tcp 127.0.0.1:56287->127.0.0.1:56289: use of closed network connection
+18:53:41.828 Stacktrace: 
+18:53:41.828 Error Message: write tcp 127.0.0.1:56287->127.0.0.1:56289: use of closed network connection
+18:53:41.828 Stacktrace: 
+18:53:41.930 Plugin [Html Report] with pid [8756] has exited
+18:53:41.930 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:53:41.930 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:53:41.930 
+Total time taken: 299ms
+18:54:20.133 # Blobs
+18:54:20.134 ## Fetch blobs by id
+18:54:20.137 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:54:20.381 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:54:20.381 Error Message: Connection closed [127.0.0.1:56300] cause: EOF
+18:54:20.381 Specification: specs/blobs.spec:6
+18:54:20.381 Stacktrace: 
+18:54:20.381 Error Message: write tcp 127.0.0.1:56298->127.0.0.1:56300: use of closed network connection
+18:54:20.381 Stacktrace: 
+18:54:20.381 Error Message: write tcp 127.0.0.1:56298->127.0.0.1:56300: use of closed network connection
+18:54:20.381 Stacktrace: 
+18:54:20.381 Error Message: write tcp 127.0.0.1:56298->127.0.0.1:56300: use of closed network connection
+18:54:20.381 Stacktrace: 
+18:54:20.381 Error Message: write tcp 127.0.0.1:56298->127.0.0.1:56300: use of closed network connection
+18:54:20.381 Stacktrace: 
+18:54:20.483 Plugin [Html Report] with pid [8767] has exited
+18:54:20.483 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:54:20.483 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:54:20.483 
+Total time taken: 264ms
+18:54:50.119 # Blobs
+18:54:50.120 ## Fetch blobs by id
+18:54:50.122 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:54:50.393 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:54:50.393 Error Message: Connection closed [127.0.0.1:56311] cause: EOF
+18:54:50.393 Specification: specs/blobs.spec:6
+18:54:50.393 Stacktrace: 
+18:54:50.393 Error Message: write tcp 127.0.0.1:56309->127.0.0.1:56311: use of closed network connection
+18:54:50.393 Stacktrace: 
+18:54:50.393 Error Message: write tcp 127.0.0.1:56309->127.0.0.1:56311: use of closed network connection
+18:54:50.393 Stacktrace: 
+18:54:50.393 Error Message: write tcp 127.0.0.1:56309->127.0.0.1:56311: use of closed network connection
+18:54:50.393 Stacktrace: 
+18:54:50.393 Error Message: write tcp 127.0.0.1:56309->127.0.0.1:56311: use of closed network connection
+18:54:50.393 Stacktrace: 
+18:54:50.494 Plugin [Html Report] with pid [8778] has exited
+18:54:50.495 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:54:50.495 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:54:50.495 
+Total time taken: 290ms
+18:55:21.085 # Blobs
+18:55:21.086 ## Fetch blobs by id
+18:55:21.089 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:55:21.338 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:55:21.338 Error Message: Connection closed [127.0.0.1:56322] cause: EOF
+18:55:21.338 Specification: specs/blobs.spec:6
+18:55:21.338 Stacktrace: 
+18:55:21.338 Error Message: write tcp 127.0.0.1:56320->127.0.0.1:56322: use of closed network connection
+18:55:21.338 Stacktrace: 
+18:55:21.338 Error Message: write tcp 127.0.0.1:56320->127.0.0.1:56322: use of closed network connection
+18:55:21.338 Stacktrace: 
+18:55:21.338 Error Message: write tcp 127.0.0.1:56320->127.0.0.1:56322: use of closed network connection
+18:55:21.338 Stacktrace: 
+18:55:21.338 Error Message: write tcp 127.0.0.1:56320->127.0.0.1:56322: use of closed network connection
+18:55:21.338 Stacktrace: 
+18:55:21.439 Plugin [Html Report] with pid [8789] has exited
+18:55:21.439 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:55:21.439 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:55:21.439 
+Total time taken: 268ms
+18:59:26.141 # Blobs
+18:59:26.143 ## Fetch blobs by id
+18:59:26.145 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+18:59:26.570 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+18:59:26.570 Error Message: Connection closed [127.0.0.1:56343] cause: EOF
+18:59:26.570 Specification: specs/blobs.spec:6
+18:59:26.570 Stacktrace: 
+18:59:26.570 Error Message: write tcp 127.0.0.1:56341->127.0.0.1:56343: use of closed network connection
+18:59:26.570 Stacktrace: 
+18:59:26.570 Error Message: write tcp 127.0.0.1:56341->127.0.0.1:56343: use of closed network connection
+18:59:26.570 Stacktrace: 
+18:59:26.570 Error Message: write tcp 127.0.0.1:56341->127.0.0.1:56343: use of closed network connection
+18:59:26.570 Stacktrace: 
+18:59:26.570 Error Message: write tcp 127.0.0.1:56341->127.0.0.1:56343: use of closed network connection
+18:59:26.570 Stacktrace: 
+18:59:26.671 Plugin [Html Report] with pid [8815] has exited
+18:59:26.671 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:59:26.671 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:59:26.671 
+Total time taken: 443ms
+19:02:31.413 # Blobs
+19:02:31.414 ## Fetch blobs by id
+19:02:31.417 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+19:02:31.703 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+19:02:31.703 Error Message: Connection closed [127.0.0.1:56364] cause: EOF
+19:02:31.703 Specification: specs/blobs.spec:6
+19:02:31.703 Stacktrace: 
+19:02:31.703 Error Message: write tcp 127.0.0.1:56362->127.0.0.1:56364: use of closed network connection
+19:02:31.703 Stacktrace: 
+19:02:31.703 Error Message: write tcp 127.0.0.1:56362->127.0.0.1:56364: use of closed network connection
+19:02:31.703 Stacktrace: 
+19:02:31.703 Error Message: write tcp 127.0.0.1:56362->127.0.0.1:56364: use of closed network connection
+19:02:31.703 Stacktrace: 
+19:02:31.703 Error Message: write tcp 127.0.0.1:56362->127.0.0.1:56364: use of closed network connection
+19:02:31.703 Stacktrace: 
+19:02:31.804 Plugin [Html Report] with pid [8829] has exited
+19:02:31.804 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:02:31.804 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:02:31.804 
+Total time taken: 305ms
+19:03:01.826 # Blobs
+19:03:01.827 ## Fetch blobs by id
+19:03:01.830 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+19:03:02.087 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+19:03:02.087 Error Message: Connection closed [127.0.0.1:56375] cause: EOF
+19:03:02.087 Specification: specs/blobs.spec:6
+19:03:02.087 Stacktrace: 
+19:03:02.087 Error Message: write tcp 127.0.0.1:56373->127.0.0.1:56375: use of closed network connection
+19:03:02.087 Stacktrace: 
+19:03:02.087 Error Message: write tcp 127.0.0.1:56373->127.0.0.1:56375: use of closed network connection
+19:03:02.087 Stacktrace: 
+19:03:02.087 Error Message: write tcp 127.0.0.1:56373->127.0.0.1:56375: use of closed network connection
+19:03:02.087 Stacktrace: 
+19:03:02.087 Error Message: write tcp 127.0.0.1:56373->127.0.0.1:56375: use of closed network connection
+19:03:02.087 Stacktrace: 
+19:03:02.189 Plugin [Html Report] with pid [8843] has exited
+19:03:02.189 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:03:02.189 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:03:02.189 
+Total time taken: 276ms
+10:26:09.010 # Blobs
+10:26:09.011 ## Fetch blobs by id
+10:26:09.013 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+10:26:09.407 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+10:26:09.407 Error Message: Connection closed [127.0.0.1:56715] cause: EOF
+10:26:09.407 Specification: specs/blobs.spec:6
+10:26:09.407 Stacktrace: 
+10:26:09.407 Error Message: write tcp 127.0.0.1:56714->127.0.0.1:56715: use of closed network connection
+10:26:09.407 Stacktrace: 
+10:26:09.407 Error Message: write tcp 127.0.0.1:56714->127.0.0.1:56715: use of closed network connection
+10:26:09.407 Stacktrace: 
+10:26:09.408 Error Message: write tcp 127.0.0.1:56714->127.0.0.1:56715: use of closed network connection
+10:26:09.408 Stacktrace: 
+10:26:09.408 Error Message: write tcp 127.0.0.1:56714->127.0.0.1:56715: use of closed network connection
+10:26:09.408 Stacktrace: 
+10:26:09.509 Plugin [Html Report] with pid [10717] has exited
+10:26:09.509 Specifications:	1 executed	0 passed	1 failed	0 skipped
+10:26:09.509 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+10:26:09.509 
+Total time taken: 443ms
+10:29:05.281 # Blobs
+10:29:05.283 ## Fetch blobs by id
+10:29:05.285 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+10:29:05.665 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+10:29:05.665 Error Message: Connection closed [127.0.0.1:56736] cause: EOF
+10:29:05.665 Specification: specs/blobs.spec:6
+10:29:05.665 Stacktrace: 
+10:29:05.665 Error Message: write tcp 127.0.0.1:56734->127.0.0.1:56736: use of closed network connection
+10:29:05.665 Stacktrace: 
+10:29:05.665 Error Message: write tcp 127.0.0.1:56734->127.0.0.1:56736: use of closed network connection
+10:29:05.665 Stacktrace: 
+10:29:05.665 Error Message: write tcp 127.0.0.1:56734->127.0.0.1:56736: use of closed network connection
+10:29:05.665 Stacktrace: 
+10:29:05.665 Error Message: write tcp 127.0.0.1:56734->127.0.0.1:56736: use of closed network connection
+10:29:05.665 Stacktrace: 
+10:29:05.766 Plugin [Html Report] with pid [10729] has exited
+10:29:05.766 Specifications:	1 executed	0 passed	1 failed	0 skipped
+10:29:05.766 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+10:29:05.766 
+Total time taken: 398ms
+10:29:11.543 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+10:29:11.663 Plugin [Html Report] with pid [10740] has exited
+10:29:11.764 Specifications:	0 executed	0 passed	0 failed	1 skipped
+10:29:11.764 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+10:29:11.764 
+Total time taken: 19ms
+11:30:01.857 # Blobs
+11:30:01.858 ## Fetch blobs by id
+11:30:01.861 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+11:30:02.269 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+11:30:02.269 Error Message: Connection closed [127.0.0.1:57172] cause: EOF
+11:30:02.269 Specification: specs/blobs.spec:6
+11:30:02.269 Stacktrace: 
+11:30:02.269 Error Message: write tcp 127.0.0.1:57170->127.0.0.1:57172: use of closed network connection
+11:30:02.269 Stacktrace: 
+11:30:02.269 Error Message: write tcp 127.0.0.1:57170->127.0.0.1:57172: use of closed network connection
+11:30:02.269 Stacktrace: 
+11:30:02.269 Error Message: write tcp 127.0.0.1:57170->127.0.0.1:57172: use of closed network connection
+11:30:02.269 Stacktrace: 
+11:30:02.269 Error Message: write tcp 127.0.0.1:57170->127.0.0.1:57172: use of closed network connection
+11:30:02.269 Stacktrace: 
+11:30:02.370 Plugin [Html Report] with pid [10853] has exited
+11:30:02.370 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:30:02.370 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:30:02.370 
+Total time taken: 426ms
+11:39:02.646 # Blobs
+11:39:02.647 ## Fetch blobs by id
+11:39:02.650 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+11:39:03.092 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+11:39:03.092 Error Message: Connection closed [127.0.0.1:57220] cause: EOF
+11:39:03.092 Specification: specs/blobs.spec:6
+11:39:03.092 Stacktrace: 
+11:39:03.092 Error Message: write tcp 127.0.0.1:57218->127.0.0.1:57220: use of closed network connection
+11:39:03.092 Stacktrace: 
+11:39:03.092 Error Message: write tcp 127.0.0.1:57218->127.0.0.1:57220: use of closed network connection
+11:39:03.092 Stacktrace: 
+11:39:03.092 Error Message: write tcp 127.0.0.1:57218->127.0.0.1:57220: use of closed network connection
+11:39:03.092 Stacktrace: 
+11:39:03.092 Error Message: write tcp 127.0.0.1:57218->127.0.0.1:57220: use of closed network connection
+11:39:03.092 Stacktrace: 
+11:39:03.193 Plugin [Html Report] with pid [10875] has exited
+11:39:03.194 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:39:03.194 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:39:03.194 
+Total time taken: 461ms
+11:39:49.590 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+11:39:49.710 Plugin [Html Report] with pid [10886] has exited
+11:39:49.810 Specifications:	0 executed	0 passed	0 failed	1 skipped
+11:39:49.811 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+11:39:49.811 
+Total time taken: 18ms
+11:40:17.079 # Blobs
+11:40:17.080 ## Fetch blobs by id
+11:40:17.083 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+11:40:17.382 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+11:40:17.382 Error Message: Connection closed [127.0.0.1:57248] cause: EOF
+11:40:17.382 Specification: specs/blobs.spec:6
+11:40:17.382 Stacktrace: 
+11:40:17.382 Error Message: write tcp 127.0.0.1:57246->127.0.0.1:57248: use of closed network connection
+11:40:17.382 Stacktrace: 
+11:40:17.382 Error Message: write tcp 127.0.0.1:57246->127.0.0.1:57248: use of closed network connection
+11:40:17.382 Stacktrace: 
+11:40:17.382 Error Message: write tcp 127.0.0.1:57246->127.0.0.1:57248: use of closed network connection
+11:40:17.382 Stacktrace: 
+11:40:17.382 Error Message: write tcp 127.0.0.1:57246->127.0.0.1:57248: use of closed network connection
+11:40:17.382 Stacktrace: 
+11:40:17.483 Plugin [Html Report] with pid [10894] has exited
+11:40:17.484 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:40:17.484 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:40:17.484 
+Total time taken: 318ms
+11:40:53.844 # Blobs
+11:40:53.845 ## Fetch blobs by id
+11:40:53.848 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+11:40:54.216 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+11:40:54.216 Error Message: Connection closed [127.0.0.1:57262] cause: EOF
+11:40:54.216 Specification: specs/blobs.spec:6
+11:40:54.216 Stacktrace: 
+11:40:54.216 Error Message: write tcp 127.0.0.1:57260->127.0.0.1:57262: use of closed network connection
+11:40:54.216 Stacktrace: 
+11:40:54.216 Error Message: write tcp 127.0.0.1:57260->127.0.0.1:57262: use of closed network connection
+11:40:54.216 Stacktrace: 
+11:40:54.216 Error Message: write tcp 127.0.0.1:57260->127.0.0.1:57262: use of closed network connection
+11:40:54.216 Stacktrace: 
+11:40:54.216 Error Message: write tcp 127.0.0.1:57260->127.0.0.1:57262: use of closed network connection
+11:40:54.216 Stacktrace: 
+11:40:54.317 Plugin [Html Report] with pid [10902] has exited
+11:40:54.317 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:40:54.317 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:40:54.317 
+Total time taken: 386ms
+13:32:11.011 # Blobs
+13:32:11.012 ## Fetch blobs by id
+13:32:11.015 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+13:32:11.542 Plugin [Html Report] with pid [10996] has exited
+13:32:11.643 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:32:11.643 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:32:11.643 
+Total time taken: 445ms
+13:32:55.639 # Blobs
+13:32:55.640 ## Fetch blobs by id
+13:32:55.643 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+13:32:56.046 Plugin [Html Report] with pid [11007] has exited
+13:32:56.147 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:32:56.147 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:32:56.147 
+Total time taken: 321ms
+13:33:37.610 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+13:33:37.731 Plugin [Html Report] with pid [11021] has exited
+13:33:37.833 Specifications:	0 executed	0 passed	0 failed	1 skipped
+13:33:37.833 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+13:33:37.833 
+Total time taken: 19ms
+13:33:51.722 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+13:33:51.842 Plugin [Html Report] with pid [11029] has exited
+13:33:51.944 Specifications:	0 executed	0 passed	0 failed	1 skipped
+13:33:51.944 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+13:33:51.944 
+Total time taken: 18ms
+13:34:05.716 # Blobs
+13:34:05.717 ## Fetch blobs by id
+13:34:05.720 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+13:34:06.101 Plugin [Html Report] with pid [11037] has exited
+13:34:06.202 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:34:06.202 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:34:06.202 
+Total time taken: 298ms
+13:34:16.943 # Blobs
+13:34:16.945 ## Fetch blobs by id
+13:34:16.947 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+13:34:17.296 Plugin [Html Report] with pid [11048] has exited
+13:34:17.397 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:34:17.397 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:34:17.397 
+Total time taken: 266ms
+13:34:33.612 # Blobs
+13:34:33.614 ## Fetch blobs by id
+13:34:33.616 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+13:34:33.954 Plugin [Html Report] with pid [11059] has exited
+13:34:34.055 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:34:34.055 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:34:34.055 
+Total time taken: 254ms
+14:04:19.245 # Blobs
+14:04:19.246 ## Fetch blobs by id
+14:04:19.249 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+14:04:19.746 Plugin [Html Report] with pid [11096] has exited
+14:04:19.848 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:04:19.848 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:04:19.848 
+Total time taken: 416ms
+14:04:45.776 # Blobs
+14:04:45.777 ## Fetch blobs by id
+14:04:45.780 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+14:04:46.131 Plugin [Html Report] with pid [11106] has exited
+14:04:46.232 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:04:46.232 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:04:46.232 
+Total time taken: 268ms
+14:05:17.844 # Blobs
+14:05:17.845 ## Fetch blobs by id
+14:05:17.848 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+14:05:18.233 Plugin [Html Report] with pid [11119] has exited
+14:05:18.334 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:05:18.335 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:05:18.335 
+Total time taken: 304ms
+14:05:41.190 # Blobs
+14:05:41.191 ## Fetch blobs by id
+14:05:41.194 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+14:05:41.583 Plugin [Html Report] with pid [11130] has exited
+14:05:41.685 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:05:41.685 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:05:41.685 
+Total time taken: 307ms
+14:05:58.626 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+14:05:58.749 Plugin [Html Report] with pid [11140] has exited
+14:05:58.850 Specifications:	0 executed	0 passed	0 failed	1 skipped
+14:05:58.850 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+14:05:58.850 
+Total time taken: 21ms
+14:10:02.662 # Blobs
+14:10:02.663 ## Fetch blobs by id
+14:10:02.666 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+14:10:03.084 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+14:10:03.084 Error Message: Connection closed [127.0.0.1:57957] cause: EOF
+14:10:03.084 Specification: specs/blobs.spec:6
+14:10:03.084 Stacktrace: 
+14:10:03.084 Error Message: write tcp 127.0.0.1:57955->127.0.0.1:57957: use of closed network connection
+14:10:03.084 Stacktrace: 
+14:10:03.084 Error Message: write tcp 127.0.0.1:57955->127.0.0.1:57957: use of closed network connection
+14:10:03.084 Stacktrace: 
+14:10:03.084 Error Message: write tcp 127.0.0.1:57955->127.0.0.1:57957: use of closed network connection
+14:10:03.084 Stacktrace: 
+14:10:03.084 Error Message: write tcp 127.0.0.1:57955->127.0.0.1:57957: use of closed network connection
+14:10:03.084 Stacktrace: 
+14:10:03.185 Plugin [Html Report] with pid [11158] has exited
+14:10:03.185 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:10:03.185 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:10:03.185 
+Total time taken: 437ms
+14:11:33.059 # Specification Heading
+14:11:33.060 ## Vowel counts in single word
+14:11:33.063 * Vowels in English language are "aeiou".
+
+14:11:33.065 * The word "gauge" has "3" vowels.
+
+14:11:33.297 Failed Step: The word "gauge" has "3" vowels.
+14:11:33.297 Error Message: AssertionError: '31' == 3
+14:11:33.297 Specification: specs/example.spec:10
+14:11:33.297 Stacktrace: 
+AssertionError: '31' == 3
+    at Object.<anonymous> (tests/step_implementation.js:24:10)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+14:11:33.297 ## Vowel counts in multiple word
+14:11:33.299 * Vowels in English language are "aeiou".
+
+14:11:33.300 * Almost all words have vowels <table:testdata/data.csv>
+14:11:33.463 Plugin [Html Report] with pid [11169] has exited
+14:11:33.564 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:11:33.565 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+14:11:33.565 
+Total time taken: 259ms
+14:12:28.640 # Blobs
+14:12:28.641 ## Fetch blobs by id
+14:12:28.644 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+14:12:29.878 Checking updates...
+14:12:31.101 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+14:12:31.101 Error Message: Connection closed [127.0.0.1:57989] cause: EOF
+14:12:31.101 Specification: specs/blobs.spec:6
+14:12:31.101 Stacktrace: 
+14:12:31.101 Error Message: write tcp 127.0.0.1:57987->127.0.0.1:57989: use of closed network connection
+14:12:31.101 Stacktrace: 
+14:12:31.101 Error Message: write tcp 127.0.0.1:57987->127.0.0.1:57989: use of closed network connection
+14:12:31.101 Stacktrace: 
+14:12:31.101 Error Message: write tcp 127.0.0.1:57987->127.0.0.1:57989: use of closed network connection
+14:12:31.101 Stacktrace: 
+14:12:31.101 Error Message: write tcp 127.0.0.1:57987->127.0.0.1:57989: use of closed network connection
+14:12:31.101 Stacktrace: 
+14:12:31.202 Plugin [Html Report] with pid [11181] has exited
+14:12:31.202 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:12:31.202 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:12:31.202 
+Total time taken: 2.476s
+14:35:02.090 # Blobs
+14:35:02.091 ## Fetch blobs by id
+14:35:02.094 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+14:35:02.565 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+14:35:02.565 Error Message: Connection closed [127.0.0.1:58106] cause: EOF
+14:35:02.565 Specification: specs/blobs.spec:6
+14:35:02.565 Stacktrace: 
+14:35:02.565 Error Message: write tcp 127.0.0.1:58104->127.0.0.1:58106: use of closed network connection
+14:35:02.565 Stacktrace: 
+14:35:02.565 Error Message: write tcp 127.0.0.1:58104->127.0.0.1:58106: use of closed network connection
+14:35:02.565 Stacktrace: 
+14:35:02.565 Error Message: write tcp 127.0.0.1:58104->127.0.0.1:58106: use of closed network connection
+14:35:02.565 Stacktrace: 
+14:35:02.565 Error Message: write tcp 127.0.0.1:58104->127.0.0.1:58106: use of closed network connection
+14:35:02.565 Stacktrace: 
+14:35:02.667 Plugin [Html Report] with pid [11213] has exited
+14:35:02.667 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:35:02.667 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:35:02.667 
+Total time taken: 490ms
+14:35:24.500 # Blobs
+14:35:24.501 ## Fetch blobs by id
+14:35:24.503 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+14:35:24.760 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+14:35:24.760 Error Message: Connection closed [127.0.0.1:58117] cause: EOF
+14:35:24.760 Specification: specs/blobs.spec:6
+14:35:24.760 Stacktrace: 
+14:35:24.760 Error Message: write tcp 127.0.0.1:58115->127.0.0.1:58117: use of closed network connection
+14:35:24.760 Stacktrace: 
+14:35:24.760 Error Message: write tcp 127.0.0.1:58115->127.0.0.1:58117: use of closed network connection
+14:35:24.761 Stacktrace: 
+14:35:24.761 Error Message: write tcp 127.0.0.1:58115->127.0.0.1:58117: use of closed network connection
+14:35:24.761 Stacktrace: 
+14:35:24.761 Error Message: write tcp 127.0.0.1:58115->127.0.0.1:58117: use of closed network connection
+14:35:24.761 Stacktrace: 
+14:35:24.861 Plugin [Html Report] with pid [11224] has exited
+14:35:24.861 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:35:24.861 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:35:24.861 
+Total time taken: 275ms
+14:41:24.544 # Blobs
+14:41:24.549 ## Fetch blobs by id
+14:41:24.552 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+14:41:24.999 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+14:41:24.999 Error Message: Connection closed [127.0.0.1:58223] cause: EOF
+14:41:24.999 Specification: specs/blobs.spec:6
+14:41:24.999 Stacktrace: 
+14:41:24.999 Error Message: write tcp 127.0.0.1:58221->127.0.0.1:58223: use of closed network connection
+14:41:24.999 Stacktrace: 
+14:41:24.999 Error Message: write tcp 127.0.0.1:58221->127.0.0.1:58223: use of closed network connection
+14:41:24.999 Stacktrace: 
+14:41:24.999 Error Message: write tcp 127.0.0.1:58221->127.0.0.1:58223: use of closed network connection
+14:41:24.999 Stacktrace: 
+14:41:24.999 Error Message: write tcp 127.0.0.1:58221->127.0.0.1:58223: use of closed network connection
+14:41:24.999 Stacktrace: 
+14:41:25.101 Plugin [Html Report] with pid [11244] has exited
+14:41:25.101 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:41:25.101 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:41:25.101 
+Total time taken: 469ms
+16:13:35.731 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:6 Step implementation not found => 'Fetch blob with id <table:testdata/testgetblobs.csv>'
+16:13:35.852 Plugin [Html Report] with pid [11346] has exited
+16:13:35.953 Specifications:	0 executed	0 passed	0 failed	1 skipped
+16:13:35.953 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+16:13:35.953 
+Total time taken: 19ms
+16:13:57.831 # Blobs
+16:13:57.836 ## Fetch blobs by id
+16:13:57.838 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:13:58.626 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+16:13:58.626 Error Message: AssertionError: Bleh
+16:13:58.626 Specification: specs/blobs.spec:6
+16:13:58.626 Stacktrace: 
+AssertionError: Bleh
+    at Test.<anonymous> (tests/testblob.js:27:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+16:13:58.730 Plugin [Html Report] with pid [11353] has exited
+16:13:58.762 Checking updates...
+16:13:58.831 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:13:58.831 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:13:58.831 
+Total time taken: 813ms
+16:36:27.038 # Blobs
+16:36:27.043 
+     |userId|id|title                                                                     |body                                                                                                                                                      |
+     |------|--|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipitsuscipit recusandae consequuntur expedita et umreprehenderit molestiae ut ut quas totamnostrum rerum est autem sunt rem eveniet architecto|
+16:36:27.043 ## Fetch blobs by id
+16:36:27.045 * Fetch blob with id <table:testdata/testgetblobs.csv>
+
+16:36:27.717 Failed Step: Fetch blob with id <table:testdata/testgetblobs.csv>
+16:36:27.717 Error Message: AssertionError: Bleh
+16:36:27.717 Specification: specs/blobs.spec:8
+16:36:27.717 Stacktrace: 
+AssertionError: Bleh
+    at Test.<anonymous> (tests/testblob.js:27:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+16:36:27.823 Plugin [Html Report] with pid [11398] has exited
+16:36:27.925 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:36:27.925 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:36:27.925 
+Total time taken: 699ms
+16:37:19.283 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:8 Step implementation not found => 'Fetch blob with "userId" with "body"'
+16:37:19.405 Plugin [Html Report] with pid [11414] has exited
+16:37:19.506 Specifications:	0 executed	0 passed	0 failed	1 skipped
+16:37:19.506 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+16:37:19.506 
+Total time taken: 20ms
+16:37:56.781 # Blobs
+16:37:56.786 
+     |userId|id|title                                                                     |body                                                                                                                                                      |
+     |------|--|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipitsuscipit recusandae consequuntur expedita et umreprehenderit molestiae ut ut quas totamnostrum rerum est autem sunt rem eveniet architecto|
+16:37:56.786 ## Fetch blobs by id
+16:37:56.788 * Fetch blob with "userId" with "body"
+
+16:37:57.002 Failed Step: Fetch blob with "userId" with "body"
+16:37:57.002 Error Message: ReferenceError: userId is not defined
+16:37:57.002 Specification: specs/blobs.spec:8
+16:37:57.002 Stacktrace: 
+ReferenceError: userId is not defined
+    at Object.<anonymous> (tests/testblob.js:38:26)
+    at Test.runFn (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:51:13)
+    at Test.run (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:78:11)
+    at Object.executeStep [as step] (/Users/fathimah/.gauge/plugins/js/2.0.0/src/executor.js:46:42)
+    at MessageProcessor.executeStep (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:31:26)
+    at MessageProcessor.getResponseFor (/Users/fathimah/.gauge/plugins/js/2.0.0/src/message-processor.js:149:40)
+    at ExecutionConnection.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/gauge.js:15:22)
+    at emitOne (events.js:96:13)
+    at ExecutionConnection.emit (events.js:188:7)
+    at Socket.messageHandler (/Users/fathimah/.gauge/plugins/js/2.0.0/src/connection.js:18:10)
+16:37:57.107 Plugin [Html Report] with pid [11422] has exited
+16:37:57.207 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:37:57.207 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:37:57.207 
+Total time taken: 238ms
+17:04:30.004 # Blobs
+17:04:30.010 
+     |userId|id|title                                                                     |body                                                                                                                                                      |
+     |------|--|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipitsuscipit recusandae consequuntur expedita et umreprehenderit molestiae ut ut quas totamnostrum rerum est autem sunt rem eveniet architecto|
+17:04:30.010 ## Fetch blobs by id
+17:04:30.013 * Fetch blob with "userId" with "body"
+
+17:04:30.912 Checking updates...
+17:04:30.955 Failed Step: Fetch blob with "userId" with "body"
+17:04:30.955 Error Message: AssertionError: Bleh
+17:04:30.955 Specification: specs/blobs.spec:8
+17:04:30.955 Stacktrace: 
+AssertionError: Bleh
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:04:31.061 Plugin [Html Report] with pid [11460] has exited
+17:04:31.162 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:04:31.162 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:04:31.162 
+Total time taken: 968ms
+17:05:33.823 # Blobs
+17:05:33.829 
+     |userId|id|title                                                                     |body                                                                                                                                                       |
+     |------|--|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipitsuscipit recusandae consequuntur expedita et cumreprehenderit molestiae ut ut quas totamnostrum rerum est autem sunt rem eveniet architecto|
+17:05:33.829 ## Fetch blobs by id
+17:05:33.832 * Fetch blob with "userId" with "body"
+
+17:05:34.316 Failed Step: Fetch blob with "userId" with "body"
+17:05:34.316 Error Message: AssertionError: Bleh
+17:05:34.316 Specification: specs/blobs.spec:8
+17:05:34.316 Stacktrace: 
+AssertionError: Bleh
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:05:34.317 
+     |userId|id|title       |body                                                                                                                                                                                                          |
+     |------|--|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |2 |qui est esse|est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla|
+17:05:34.317 ## Fetch blobs by id
+17:05:34.318 * Fetch blob with "userId" with "body"
+
+17:05:34.644 Checking updates...
+17:05:34.743 Failed Step: Fetch blob with "userId" with "body"
+17:05:34.743 Error Message: AssertionError: Bleh
+17:05:34.743 Specification: specs/blobs.spec:8
+17:05:34.743 Stacktrace: 
+AssertionError: Bleh
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:05:34.744 
+     |userId|id|title                                                      |body                                                                                                                                                                |
+     |------|--|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |3 |ea molestias quasi exercitationem repellat qui ipsa sit aut|et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut|
+17:05:34.744 ## Fetch blobs by id
+17:05:34.745 * Fetch blob with "userId" with "body"
+
+17:05:35.210 Failed Step: Fetch blob with "userId" with "body"
+17:05:35.210 Error Message: AssertionError: Bleh
+17:05:35.210 Specification: specs/blobs.spec:8
+17:05:35.210 Stacktrace: 
+AssertionError: Bleh
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:05:35.212 
+     |userId|id|title               |body                                                                                                                                                                                          |
+     |------|--|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |4 |eum et est occaecati|ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit|
+17:05:35.212 ## Fetch blobs by id
+17:05:35.215 * Fetch blob with "userId" with "body"
+
+17:05:35.885 Failed Step: Fetch blob with "userId" with "body"
+17:05:35.885 Error Message: AssertionError: Bleh
+17:05:35.885 Specification: specs/blobs.spec:8
+17:05:35.885 Stacktrace: 
+AssertionError: Bleh
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:05:36.003 Plugin [Html Report] with pid [11473] has exited
+17:05:36.104 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:05:36.104 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:05:36.104 
+Total time taken: 2.081s
+17:11:28.945 # Blobs
+17:11:28.950 
+     |userId|id|title                                                                     |body                                                                                                                                                       |
+     |------|--|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipitsuscipit recusandae consequuntur expedita et cumreprehenderit molestiae ut ut quas totamnostrum rerum est autem sunt rem eveniet architecto|
+17:11:28.950 ## Fetch blobs by id
+17:11:28.953 * Fetch blob with "userId" with "body"
+
+17:11:29.878 Checking updates...
+17:11:30.091 Failed Step: Fetch blob with "userId" with "body"
+17:11:30.091 Error Message: AssertionError: Incorrect data is returned
+17:11:30.091 Specification: specs/blobs.spec:8
+17:11:30.091 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:43:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:11:30.091 
+     |userId|id|title       |body                                                                                                                                                                                                          |
+     |------|--|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |2 |qui est esse|est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla|
+17:11:30.091 ## Fetch blobs by id
+17:11:30.093 * Fetch blob with "userId" with "body"
+
+17:11:30.521 Failed Step: Fetch blob with "userId" with "body"
+17:11:30.521 Error Message: AssertionError: Incorrect data is returned
+17:11:30.521 Specification: specs/blobs.spec:8
+17:11:30.521 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:43:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:11:30.522 
+     |userId|id|title                                                      |body                                                                                                                                                                |
+     |------|--|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |3 |ea molestias quasi exercitationem repellat qui ipsa sit aut|et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut|
+17:11:30.522 ## Fetch blobs by id
+17:11:30.523 * Fetch blob with "userId" with "body"
+
+17:11:30.924 Failed Step: Fetch blob with "userId" with "body"
+17:11:30.924 Error Message: AssertionError: Incorrect data is returned
+17:11:30.924 Specification: specs/blobs.spec:8
+17:11:30.924 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:43:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:11:30.925 
+     |userId|id|title               |body                                                                                                                                                                                          |
+     |------|--|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |4 |eum et est occaecati|ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit|
+17:11:30.925 ## Fetch blobs by id
+17:11:30.927 * Fetch blob with "userId" with "body"
+
+17:11:31.336 Failed Step: Fetch blob with "userId" with "body"
+17:11:31.336 Error Message: AssertionError: Incorrect data is returned
+17:11:31.336 Specification: specs/blobs.spec:8
+17:11:31.336 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:43:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:11:31.456 Plugin [Html Report] with pid [11497] has exited
+17:11:31.557 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:11:31.558 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:11:31.558 
+Total time taken: 2.413s
+17:13:53.807 # Blobs
+17:13:53.813 
+     |userId|id|title                                                                     |body                                                                                                                                                       |
+     |------|--|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipitsuscipit recusandae consequuntur expedita et cumreprehenderit molestiae ut ut quas totamnostrum rerum est autem sunt rem eveniet architecto|
+17:13:53.813 ## Fetch blobs by id
+17:13:53.815 * Fetch blob with "userId" with "body"
+
+17:13:54.252 Failed Step: Fetch blob with "userId" with "body"
+17:13:54.252 Error Message: AssertionError: Incorrect data is returned
+17:13:54.252 Specification: specs/blobs.spec:8
+17:13:54.252 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:45:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:13:54.253 
+     |userId|id|title       |body                                                                                                                                                                                                          |
+     |------|--|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |2 |qui est esse|est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla|
+17:13:54.253 ## Fetch blobs by id
+17:13:54.254 * Fetch blob with "userId" with "body"
+
+17:13:54.634 Checking updates...
+17:13:54.780 Failed Step: Fetch blob with "userId" with "body"
+17:13:54.780 Error Message: AssertionError: Incorrect data is returned
+17:13:54.780 Specification: specs/blobs.spec:8
+17:13:54.780 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:45:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:13:54.781 
+     |userId|id|title                                                      |body                                                                                                                                                                |
+     |------|--|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |3 |ea molestias quasi exercitationem repellat qui ipsa sit aut|et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut|
+17:13:54.781 ## Fetch blobs by id
+17:13:54.782 * Fetch blob with "userId" with "body"
+
+17:13:55.203 Failed Step: Fetch blob with "userId" with "body"
+17:13:55.203 Error Message: AssertionError: Incorrect data is returned
+17:13:55.203 Specification: specs/blobs.spec:8
+17:13:55.203 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:45:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:13:55.204 
+     |userId|id|title               |body                                                                                                                                                                                          |
+     |------|--|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |4 |eum et est occaecati|ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit|
+17:13:55.204 ## Fetch blobs by id
+17:13:55.207 * Fetch blob with "userId" with "body"
+
+17:13:55.657 Failed Step: Fetch blob with "userId" with "body"
+17:13:55.657 Error Message: AssertionError: Incorrect data is returned
+17:13:55.657 Specification: specs/blobs.spec:8
+17:13:55.657 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:45:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:688:3)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at IncomingMessage.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+17:13:55.778 Plugin [Html Report] with pid [11530] has exited
+17:13:55.879 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:13:55.880 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:13:55.880 
+Total time taken: 1.871s
+18:27:06.231 # Blobs
+18:27:06.236 
+     |userId|id|title                                                                     |body                                                                                                                                                       |
+     |------|--|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipitsuscipit recusandae consequuntur expedita et cumreprehenderit molestiae ut ut quas totamnostrum rerum est autem sunt rem eveniet architecto|
+18:27:06.236 ## Fetch blobs by id
+18:27:06.238 * Fetch blob with <userId> with <body>
+
+18:27:06.836 Failed Step: Fetch blob with <userId> with <body>
+18:27:06.836 Error Message: AssertionError: Incorrect data is returned
+18:27:06.836 Specification: specs/blobs.spec:8
+18:27:06.836 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:45:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:27:06.837 
+     |userId|id|title       |body                                                                                                                                                                                                          |
+     |------|--|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |2 |qui est esse|est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla|
+18:27:06.837 ## Fetch blobs by id
+18:27:06.838 * Fetch blob with <userId> with <body>
+
+18:27:07.262 Failed Step: Fetch blob with <userId> with <body>
+18:27:07.262 Error Message: AssertionError: Incorrect data is returned
+18:27:07.262 Specification: specs/blobs.spec:8
+18:27:07.262 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:45:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:27:07.263 
+     |userId|id|title                                                      |body                                                                                                                                                                |
+     |------|--|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |3 |ea molestias quasi exercitationem repellat qui ipsa sit aut|et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut|
+18:27:07.263 ## Fetch blobs by id
+18:27:07.263 Checking updates...
+18:27:07.264 * Fetch blob with <userId> with <body>
+
+18:27:07.704 Failed Step: Fetch blob with <userId> with <body>
+18:27:07.704 Error Message: AssertionError: Incorrect data is returned
+18:27:07.704 Specification: specs/blobs.spec:8
+18:27:07.704 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:45:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:27:07.704 
+     |userId|id|title               |body                                                                                                                                                                                          |
+     |------|--|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |4 |eum et est occaecati|ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit|
+18:27:07.704 ## Fetch blobs by id
+18:27:07.708 * Fetch blob with <userId> with <body>
+
+18:27:08.168 Failed Step: Fetch blob with <userId> with <body>
+18:27:08.168 Error Message: AssertionError: Incorrect data is returned
+18:27:08.168 Specification: specs/blobs.spec:8
+18:27:08.168 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:45:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:27:08.287 Plugin [Html Report] with pid [11614] has exited
+18:27:08.389 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:27:08.389 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:27:08.389 
+Total time taken: 1.957s
+18:31:50.611 # Blobs
+18:31:50.616 
+     |userId|id|title                                                                     |body                                                                                                                                                          |
+     |------|--|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto|
+18:31:50.617 ## Fetch blobs by id
+18:31:50.619 * Fetch blob with <userId> with <title>
+
+18:31:51.025 Failed Step: Fetch blob with <userId> with <title>
+18:31:51.025 Error Message: AssertionError: Incorrect data is returned
+18:31:51.025 Specification: specs/blobs.spec:8
+18:31:51.025 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:31:51.026 
+     |userId|id|title       |body                                                                                                                                                                                                          |
+     |------|--|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |2 |qui est esse|est rerum tempore vitae
+sequi sint nihil reprehenderit dolor beatae ea dolores neque
+fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis
+qui aperiam non debitis possimus qui neque nisi nulla|
+18:31:51.026 ## Fetch blobs by id
+18:31:51.027 * Fetch blob with <userId> with <title>
+
+18:31:51.418 Checking updates...
+18:31:51.432 Failed Step: Fetch blob with <userId> with <title>
+18:31:51.432 Error Message: AssertionError: Incorrect data is returned
+18:31:51.432 Specification: specs/blobs.spec:8
+18:31:51.432 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:31:51.433 
+     |userId|id|title                                                      |body                                                                                                                                                                |
+     |------|--|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |3 |ea molestias quasi exercitationem repellat qui ipsa sit aut|et iusto sed quo iure
+voluptatem occaecati omnis eligendi aut ad
+voluptatem doloribus vel accusantium quis pariatur
+molestiae porro eius odio et labore et velit aut|
+18:31:51.433 ## Fetch blobs by id
+18:31:51.434 * Fetch blob with <userId> with <title>
+
+18:31:51.815 Failed Step: Fetch blob with <userId> with <title>
+18:31:51.815 Error Message: AssertionError: Incorrect data is returned
+18:31:51.815 Specification: specs/blobs.spec:8
+18:31:51.815 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:31:51.817 
+     |userId|id|title               |body                                                                                                                                                                                          |
+     |------|--|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |4 |eum et est occaecati|ullam et saepe reiciendis voluptatem adipisci
+sit amet autem assumenda provident rerum culpa
+quis hic commodi nesciunt rem tenetur doloremque ipsam iure
+quis sunt voluptatem rerum illo velit|
+18:31:51.817 ## Fetch blobs by id
+18:31:51.818 * Fetch blob with <userId> with <title>
+
+18:31:52.188 Failed Step: Fetch blob with <userId> with <title>
+18:31:52.188 Error Message: AssertionError: Incorrect data is returned
+18:31:52.188 Specification: specs/blobs.spec:8
+18:31:52.188 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:31:52.299 Plugin [Html Report] with pid [11650] has exited
+18:31:52.400 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:31:52.400 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:31:52.400 
+Total time taken: 1.594s
+18:35:00.680 [ValidationError] /Users/fathimah/Work/GaugeNode/specs/blobs.spec:8 Step implementation not found => 'Fetch blob with <userId> with <title>'
+18:35:00.803 Plugin [Html Report] with pid [11675] has exited
+18:35:00.904 Specifications:	0 executed	0 passed	0 failed	1 skipped
+18:35:00.904 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+18:35:00.904 
+Total time taken: 21ms
+18:35:52.891 # Blobs
+18:35:52.896 
+     |userId|id|title                                                                     |body                                                                                                                                                          |
+     |------|--|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto|
+18:35:52.896 ## Fetch blobs by id
+18:35:52.898 * Fetch blob with <userId> with <title>
+
+18:35:53.793 Checking updates...
+18:36:03.071 Failed Step: Fetch blob with <userId> with <title>
+18:36:03.071 Error Message: Error: Timed out
+18:36:03.071 Specification: specs/blobs.spec:8
+18:36:03.071 Stacktrace: 
+Error: Timed out
+    at Timeout.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:42:23)
+    at ontimeout (timers.js:380:14)
+    at tryOnTimeout (timers.js:244:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+18:36:03.179 Plugin [Html Report] with pid [11684] has exited
+18:36:03.281 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:36:03.281 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:36:03.281 
+Total time taken: 10.201s
+18:36:11.337 # Blobs
+18:36:11.343 
+     |userId|id|title                                                                     |body                                                                                                                                                          |
+     |------|--|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto|
+18:36:11.343 ## Fetch blobs by id
+18:36:11.345 * Fetch blob with <userId> with <title>
+
+18:36:12.280 Checking updates...
+18:36:21.523 Failed Step: Fetch blob with <userId> with <title>
+18:36:21.523 Error Message: Error: Timed out
+18:36:21.523 Specification: specs/blobs.spec:8
+18:36:21.523 Stacktrace: 
+Error: Timed out
+    at Timeout.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:42:23)
+    at ontimeout (timers.js:380:14)
+    at tryOnTimeout (timers.js:244:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+18:36:21.630 Plugin [Html Report] with pid [11696] has exited
+18:36:21.731 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:36:21.731 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:36:21.731 
+Total time taken: 10.205s
+18:37:53.351 # Blobs
+18:37:53.356 
+     |userId|id|title                                                                     |body                                                                                                                                                          |
+     |------|--|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto|
+18:37:53.356 ## Fetch blobs by id
+18:37:53.359 * Fetch blob with <userId> with <title>
+
+18:37:54.326 Checking updates...
+18:38:03.543 Failed Step: Fetch blob with <userId> with <title>
+18:38:03.543 Error Message: Error: Timed out
+18:38:03.543 Specification: specs/blobs.spec:8
+18:38:03.543 Stacktrace: 
+Error: Timed out
+    at Timeout.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:42:23)
+    at ontimeout (timers.js:380:14)
+    at tryOnTimeout (timers.js:244:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+18:38:03.651 Plugin [Html Report] with pid [11714] has exited
+18:38:03.753 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:38:03.753 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:38:03.753 
+Total time taken: 10.213s
+18:38:58.534 # Blobs
+18:38:58.539 
+     |userId|id|title                                                                     |body                                                                                                                                                          |
+     |------|--|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto|
+18:38:58.539 ## Fetch blobs by id
+18:38:58.543 * Fetch blob with <userId> with <id>
+
+18:38:59.501 Checking updates...
+18:39:08.715 Failed Step: Fetch blob with <userId> with <id>
+18:39:08.715 Error Message: Error: Timed out
+18:39:08.715 Specification: specs/blobs.spec:8
+18:39:08.715 Stacktrace: 
+Error: Timed out
+    at Timeout.<anonymous> (/Users/fathimah/.gauge/plugins/js/2.0.0/src/test.js:42:23)
+    at ontimeout (timers.js:380:14)
+    at tryOnTimeout (timers.js:244:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+18:39:08.823 Plugin [Html Report] with pid [11732] has exited
+18:39:08.924 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:39:08.924 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:39:08.924 
+Total time taken: 10.202s
+18:40:05.552 # Blobs
+18:40:05.557 
+     |userId|id|title                                                                     |body                                                                                                                                                          |
+     |------|--|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto|
+18:40:05.557 ## Fetch blobs by id
+18:40:05.559 * Fetch blob with <userId> with <id>
+
+18:40:05.896 Plugin [Html Report] with pid [11745] has exited
+18:40:05.997 Specifications:	1 executed	1 passed	0 failed	0 skipped
+18:40:05.997 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+18:40:05.997 
+Total time taken: 258ms
+18:40:18.944 # Blobs
+18:40:18.949 
+     |userId|id|title                                                                     |body                                                                                                                                                          |
+     |------|--|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto|
+18:40:18.949 ## Fetch blobs by id
+18:40:18.952 * Fetch blob with <userId> with <id>
+
+18:40:19.267 
+     |userId|id|title       |body                                                                                                                                                                                                          |
+     |------|--|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |2 |qui est esse|est rerum tempore vitae
+sequi sint nihil reprehenderit dolor beatae ea dolores neque
+fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis
+qui aperiam non debitis possimus qui neque nisi nulla|
+18:40:19.267 ## Fetch blobs by id
+18:40:19.268 * Fetch blob with <userId> with <id>
+
+18:40:19.631 Failed Step: Fetch blob with <userId> with <id>
+18:40:19.631 Error Message: AssertionError: Incorrect data is returned
+18:40:19.631 Specification: specs/blobs.spec:8
+18:40:19.631 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:40:19.632 
+     |userId|id|title                                                      |body                                                                                                                                                                |
+     |------|--|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |3 |ea molestias quasi exercitationem repellat qui ipsa sit aut|et iusto sed quo iure
+voluptatem occaecati omnis eligendi aut ad
+voluptatem doloribus vel accusantium quis pariatur
+molestiae porro eius odio et labore et velit aut|
+18:40:19.632 ## Fetch blobs by id
+18:40:19.633 * Fetch blob with <userId> with <id>
+
+18:40:20.007 Failed Step: Fetch blob with <userId> with <id>
+18:40:20.007 Error Message: AssertionError: Incorrect data is returned
+18:40:20.007 Specification: specs/blobs.spec:8
+18:40:20.007 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:40:20.008 
+     |userId|id|title               |body                                                                                                                                                                                          |
+     |------|--|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |4 |eum et est occaecati|ullam et saepe reiciendis voluptatem adipisci
+sit amet autem assumenda provident rerum culpa
+quis hic commodi nesciunt rem tenetur doloremque ipsam iure
+quis sunt voluptatem rerum illo velit|
+18:40:20.008 ## Fetch blobs by id
+18:40:20.009 * Fetch blob with <userId> with <id>
+
+18:40:20.361 Failed Step: Fetch blob with <userId> with <id>
+18:40:20.361 Error Message: AssertionError: Incorrect data is returned
+18:40:20.361 Specification: specs/blobs.spec:8
+18:40:20.361 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:40:20.469 Plugin [Html Report] with pid [11756] has exited
+18:40:20.570 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:40:20.570 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:40:20.570 
+Total time taken: 1.434s
+18:41:40.576 # Blobs
+18:41:40.581 
+     |userId|id|title       |body                                                                                                                                                                                                          |
+     |------|--|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |2 |qui est esse|est rerum tempore vitae
+sequi sint nihil reprehenderit dolor beatae ea dolores neque
+fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis
+qui aperiam non debitis possimus qui neque nisi nulla|
+18:41:40.581 ## Fetch blobs by id
+18:41:40.584 * Fetch blob with <userId> with <id>
+
+18:41:41.554 Failed Step: Fetch blob with <userId> with <id>
+18:41:41.554 Error Message: AssertionError: Incorrect data is returned
+18:41:41.554 Specification: specs/blobs.spec:8
+18:41:41.554 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:41:41.555 
+     |userId|id|title                                                      |body                                                                                                                                                                |
+     |------|--|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |3 |ea molestias quasi exercitationem repellat qui ipsa sit aut|et iusto sed quo iure
+voluptatem occaecati omnis eligendi aut ad
+voluptatem doloribus vel accusantium quis pariatur
+molestiae porro eius odio et labore et velit aut|
+18:41:41.555 ## Fetch blobs by id
+18:41:41.556 * Fetch blob with <userId> with <id>
+
+18:41:41.575 Checking updates...
+18:41:42.002 Failed Step: Fetch blob with <userId> with <id>
+18:41:42.002 Error Message: AssertionError: Incorrect data is returned
+18:41:42.002 Specification: specs/blobs.spec:8
+18:41:42.002 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:41:42.002 
+     |userId|id|title               |body                                                                                                                                                                                          |
+     |------|--|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |4 |eum et est occaecati|ullam et saepe reiciendis voluptatem adipisci
+sit amet autem assumenda provident rerum culpa
+quis hic commodi nesciunt rem tenetur doloremque ipsam iure
+quis sunt voluptatem rerum illo velit|
+18:41:42.002 ## Fetch blobs by id
+18:41:42.003 * Fetch blob with <userId> with <id>
+
+18:41:42.364 Failed Step: Fetch blob with <userId> with <id>
+18:41:42.364 Error Message: AssertionError: Incorrect data is returned
+18:41:42.364 Specification: specs/blobs.spec:8
+18:41:42.364 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:41:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:41:42.366 
+     |userId|id|title                                                                     |body                                                                                                                                                          |
+     |------|--|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto|
+18:41:42.366 ## Fetch blobs by id
+18:41:42.368 * Fetch blob with <userId> with <id>
+
+18:41:42.683 Plugin [Html Report] with pid [11772] has exited
+18:41:42.784 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:41:42.784 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:41:42.784 
+Total time taken: 2.016s
+18:44:17.782 # Blobs
+18:44:17.787 
+     |userId|id|title       |body                                                                                                                                                                                                          |
+     |------|--|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |2 |qui est esse|est rerum tempore vitae
+sequi sint nihil reprehenderit dolor beatae ea dolores neque
+fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis
+qui aperiam non debitis possimus qui neque nisi nulla|
+18:44:17.787 ## Fetch blobs by id
+18:44:17.789 * Fetch blob with <userId> with <id>
+
+18:44:18.348 Failed Step: Fetch blob with <userId> with <id>
+18:44:18.348 Error Message: AssertionError: Incorrect data is returned
+18:44:18.348 Specification: specs/blobs.spec:8
+18:44:18.348 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:44:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:44:18.348 
+     |userId|id|title                                                      |body                                                                                                                                                                |
+     |------|--|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |3 |ea molestias quasi exercitationem repellat qui ipsa sit aut|et iusto sed quo iure
+voluptatem occaecati omnis eligendi aut ad
+voluptatem doloribus vel accusantium quis pariatur
+molestiae porro eius odio et labore et velit aut|
+18:44:18.348 ## Fetch blobs by id
+18:44:18.350 * Fetch blob with <userId> with <id>
+
+18:44:18.586 Checking updates...
+18:44:18.724 Failed Step: Fetch blob with <userId> with <id>
+18:44:18.724 Error Message: AssertionError: Incorrect data is returned
+18:44:18.724 Specification: specs/blobs.spec:8
+18:44:18.724 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:44:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:44:18.725 
+     |userId|id|title               |body                                                                                                                                                                                          |
+     |------|--|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |4 |eum et est occaecati|ullam et saepe reiciendis voluptatem adipisci
+sit amet autem assumenda provident rerum culpa
+quis hic commodi nesciunt rem tenetur doloremque ipsam iure
+quis sunt voluptatem rerum illo velit|
+18:44:18.725 ## Fetch blobs by id
+18:44:18.726 * Fetch blob with <userId> with <id>
+
+18:44:19.126 Failed Step: Fetch blob with <userId> with <id>
+18:44:19.126 Error Message: AssertionError: Incorrect data is returned
+18:44:19.126 Specification: specs/blobs.spec:8
+18:44:19.126 Stacktrace: 
+AssertionError: Incorrect data is returned
+    at Test.<anonymous> (tests/testblob.js:44:18)
+    at Test.assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:179:6)
+    at assert (/Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:131:12)
+    at /Users/fathimah/Work/GaugeNode/node_modules/supertest/lib/test.js:128:5
+    at Test.Request.callback (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:668:14)
+    at /Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/index.js:883:18
+    at Stream.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/parsers/json.js:16:7)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (/Users/fathimah/Work/GaugeNode/node_modules/superagent/lib/node/unzip.js:53:12)
+18:44:19.128 
+     |userId|id|title                                                                     |body                                                                                                                                                          |
+     |------|--|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto|
+18:44:19.128 ## Fetch blobs by id
+18:44:19.130 * Fetch blob with <userId> with <id>
+
+18:44:19.487 Plugin [Html Report] with pid [11791] has exited
+18:44:19.588 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:44:19.589 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:44:19.589 
+Total time taken: 1.616s
+18:45:48.802 # Blobs
+18:45:48.807 
+     |userId|id|title       |body                                                                                                                                                                                                          |
+     |------|--|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |2 |qui est esse|est rerum tempore vitae
+sequi sint nihil reprehenderit dolor beatae ea dolores neque
+fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis
+qui aperiam non debitis possimus qui neque nisi nulla|
+18:45:48.807 ## Fetch blobs by id
+18:45:48.809 * Fetch blob with <userId> with <id>
+
+18:45:49.506 
+     |userId|id|title                                                      |body                                                                                                                                                                |
+     |------|--|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |3 |ea molestias quasi exercitationem repellat qui ipsa sit aut|et iusto sed quo iure
+voluptatem occaecati omnis eligendi aut ad
+voluptatem doloribus vel accusantium quis pariatur
+molestiae porro eius odio et labore et velit aut|
+18:45:49.506 ## Fetch blobs by id
+18:45:49.507 * Fetch blob with <userId> with <id>
+
+18:45:49.704 Checking updates...
+18:45:50.091 
+     |userId|id|title               |body                                                                                                                                                                                          |
+     |------|--|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |4 |eum et est occaecati|ullam et saepe reiciendis voluptatem adipisci
+sit amet autem assumenda provident rerum culpa
+quis hic commodi nesciunt rem tenetur doloremque ipsam iure
+quis sunt voluptatem rerum illo velit|
+18:45:50.091 ## Fetch blobs by id
+18:45:50.092 * Fetch blob with <userId> with <id>
+
+18:45:50.589 
+     |userId|id|title                                                                     |body                                                                                                                                                          |
+     |------|--|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+     |1     |1 |sunt aut facere repellat provident occaecati excepturi optio reprehenderit|quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto|
+18:45:50.589 ## Fetch blobs by id
+18:45:50.590 * Fetch blob with <userId> with <id>
+
+18:45:50.977 Plugin [Html Report] with pid [11808] has exited
+18:45:51.078 Specifications:	1 executed	1 passed	0 failed	0 skipped
+18:45:51.078 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+18:45:51.078 
+Total time taken: 2.089s

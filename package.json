@@ -1,0 +1,13 @@
+{
+  "name": "gauge-js-template",
+  "version": "0.0.1",
+  "description": "Starter template for writing JavaScript tests for Gauge",
+  "scripts": {
+    "test": "gauge specs/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "supertest": "^3.0.0"
+  }
+}

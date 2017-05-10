@@ -1,0 +1,7 @@
+13:02:11.275 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+13:02:11.276 Initializing concepts cache with 0 concepts
+13:02:11.276 Watching directory: /Users/fathimah/Work/GaugeNode/specs
+13:02:11.276 Found 1 files
+13:02:11.276 Initializing specs cache with 1 specs
+13:02:11.276 Adding specs from /Users/fathimah/Work/GaugeNode/specs/example.spec
+13:02:11.276 Initializing steps cache with 3 steps
