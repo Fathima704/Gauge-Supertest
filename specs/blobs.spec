@@ -5,5 +5,5 @@ table:testdata/testgetblobs.csv
 
 Fetch blobs by id
 -----------------
-* Fetch blob with <userId> with <id>
+* Blob post with user id <id> has a corresponding unique title <title>
 

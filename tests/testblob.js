@@ -17,7 +17,6 @@ gauge.step("Fetch blob with id <table>", function(table, done) {
 
   			var rowID = table.rows[0].cells[0]
   			var body = table.rows[0].cells[3]
-        // var body = "blah";
 
   			request
     			.get('/posts/'+rowID)
@@ -32,15 +31,12 @@ gauge.step("Fetch blob with id <table>", function(table, done) {
 });
 });
 
-gauge.step("Fetch blob with <userId> with <id>", function(userId,id,done) {
+gauge.step("Blob post with user id <id> has a corresponding unique title <title>", function(id,title,done) {
         request
           .get('/posts/'+id)
           .end(function (err, res) {
           try{
-            console.log("response id =========",res.body.id)
-            console.log("data id =========",id)
-
-          assert.equal(id,res.body.id,"Incorrect data is returned")  
+          assert.equal(title,res.body.title,"Incorrect data is returned")  
           done();
         }catch(e){
           done(e);
